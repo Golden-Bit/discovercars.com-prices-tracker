@@ -6,11 +6,22 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Fiat 500",
-      "Kia Picanto",
-      "Peugeot 107",
-      "Smart Forfour",
-      "Volkswagen Up"
+      {
+        "model": "Fiat 500",
+        "score": 1.0
+      },
+      {
+        "model": "Lancia Ypsilon",
+        "score": 0.9
+      },
+      {
+        "model": "Kia Picanto",
+        "score": 0.8
+      },
+      {
+        "model": "Smart Forfour",
+        "score": 0.7
+      }
     ]
   },
   {
@@ -19,9 +30,7 @@
     "example_vehicle": "TOYOTA AYGO",
     "transmission": "AUTOMATIC",
     "note": "OR SIMILAR",
-    "vehicles": [
-      "Toyota Aygo"
-    ]
+    "vehicles": []
   },
   {
     "sipp_code": "ECMR",
@@ -30,17 +39,26 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Audi A1",
-      "Citroen C3",
-      "Fiat Panda",
-      "Kia Rio",
-      "Lancia Ypsilon",
-      "Opel Corsa",
-      "Peugeot 208",
-      "Renault Clio",
-      "Seat Ibiza",
-      "Skoda Fabia",
-      "Volkswagen Polo"
+      {
+        "model": "Fiat Panda",
+        "score": 1.0
+      },
+      {
+        "model": "Opel Corsa",
+        "score": 0.9
+      },
+      {
+        "model": "Peugeot 208",
+        "score": 0.9
+      },
+      {
+        "model": "Kia Rio",
+        "score": 0.8
+      },
+      {
+        "model": "Volkswagen Polo",
+        "score": 0.8
+      }
     ]
   },
   {
@@ -49,9 +67,7 @@
     "example_vehicle": "FORD FIESTA",
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
-    "vehicles": [
-      "Ford Fiesta"
-    ]
+    "vehicles": []
   },
   {
     "sipp_code": "CDMR",
@@ -60,14 +76,22 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Citroen C3 Aircross",
-      "Citroën C3 Aircross",
-      "Fiat 500X",
-      "Ford Puma",
-      "Opel Crossland",
-      "Opel Mokka",
-      "Seat Arona",
-      "Volkswagen T-Cross"
+      {
+        "model": "Fiat 500X",
+        "score": 1.0
+      },
+      {
+        "model": "Fiat Tipo",
+        "score": 0.9
+      },
+      {
+        "model": "Volkswagen T-Roc",
+        "score": 0.8
+      },
+      {
+        "model": "Volkswagen T-Cross",
+        "score": 0.7
+      }
     ]
   },
   {
@@ -76,9 +100,7 @@
     "example_vehicle": "VW TAIGO",
     "transmission": "AUTOMATIC",
     "note": "OR SIMILAR",
-    "vehicles": [
-      "Volkswagen T-Roc"
-    ]
+    "vehicles": []
   },
   {
     "sipp_code": "ILMR",
@@ -87,16 +109,26 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Audi A3",
-      "Audi A5",
-      "BMW 1 Series",
-      "BMW 2 Series",
-      "BMW 3 series",
-      "Fiat Tipo",
-      "Ford Focus",
-      "Opel Astra",
-      "Seat Leon",
-      "Volkswagen Golf"
+      {
+        "model": "Volkswagen Golf",
+        "score": 1.0
+      },
+      {
+        "model": "Citroen C5",
+        "score": 0.9
+      },
+      {
+        "model": "BMW 3 series",
+        "score": 0.8
+      },
+      {
+        "model": "Ford Focus",
+        "score": 0.8
+      },
+      {
+        "model": "Seat Leon",
+        "score": 0.8
+      }
     ]
   },
   {
@@ -106,7 +138,10 @@
     "transmission": "AUTOMATIC",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Citroen C5"
+      {
+        "model": "Audi A3",
+        "score": 0.8
+      }
     ]
   },
   {
@@ -116,13 +151,30 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Chery Tiggo",
-      "Chery Tiggo 7",
-      "Jeep Avenger",
-      "Jeep Renegade",
-      "MG HS",
-      "Peugeot 2008",
-      "Renault Captur"
+      {
+        "model": "Jeep Renegade",
+        "score": 1.0
+      },
+      {
+        "model": "BMW X3",
+        "score": 0.9
+      },
+      {
+        "model": "Jeep Compass",
+        "score": 0.9
+      },
+      {
+        "model": "BMW X1",
+        "score": 0.8
+      },
+      {
+        "model": "Chery Tiggo",
+        "score": 0.7
+      },
+      {
+        "model": "Chery Tiggo 7",
+        "score": 0.7
+      }
     ]
   },
   {
@@ -132,13 +184,10 @@
     "transmission": "AUTOMATIC",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Jeep Compass",
-      "Mitsubishi ASX",
-      "Peugeot 3008",
-      "Renault Kadjar",
-      "Toyota C-HR",
-      "Toyota Corolla Cross",
-      "Volkswagen T-Roc"
+      {
+        "model": "Peugeot 3008",
+        "score": 1.0
+      }
     ]
   },
   {
@@ -148,7 +197,18 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Nissan Qashqai"
+      {
+        "model": "BMW X5",
+        "score": 0.8
+      },
+      {
+        "model": "BMW X6",
+        "score": 0.8
+      },
+      {
+        "model": "Kia Sportage",
+        "score": 0.8
+      }
     ]
   },
   {
@@ -158,16 +218,14 @@
     "transmission": "AUTOMATIC",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Alfa Romeo Stelvio",
-      "Alfa Romeo Tonale",
-      "Audi Q3",
-      "BMW X1",
-      "BMW X3",
-      "BMW X5",
-      "BMW X6",
-      "Citroen DS7",
-      "Jaguar F-Pace",
-      "Tesla Model Y"
+      {
+        "model": "Alfa Romeo Tonale",
+        "score": 1.0
+      },
+      {
+        "model": "Tesla Model Y",
+        "score": 0.6
+      }
     ]
   },
   {
@@ -177,15 +235,38 @@
     "transmission": "MANUAL",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Audi A4 STW",
-      "BMW 3 Series STW",
-      "BMW 3 Series Touring",
-      "Fiat Tipo STW",
-      "Ford Focus STW",
-      "Opel Astra STW",
-      "Seat Leon STW",
-      "Skoda Octavia STW",
-      "Toyota Corolla STW"
+      {
+        "model": "Ford Focus STW",
+        "score": 1.0
+      },
+      {
+        "model": "BMW 3 Series STW",
+        "score": 0.9
+      },
+      {
+        "model": "BMW 3 Series Touring",
+        "score": 0.9
+      },
+      {
+        "model": "Fiat Tipo STW",
+        "score": 0.9
+      },
+      {
+        "model": "Skoda Octavia STW",
+        "score": 0.8
+      },
+      {
+        "model": "Toyota Corolla STW",
+        "score": 0.8
+      },
+      {
+        "model": "BMW 5 Series Touring",
+        "score": 0.7
+      },
+      {
+        "model": "Seat Leon STW",
+        "score": 0.7
+      }
     ]
   },
   {
@@ -203,19 +284,7 @@
     "transmission": "AUTOMATIC",
     "seating": "7 SEATS",
     "note": "OR SIMILAR",
-    "vehicles": [
-      "Dacia Jogger",
-      "Fiat Talento",
-      "Ford Tourneo Custom",
-      "Ford Transit",
-      "Hyundai Staria",
-      "Mercedes-Benz Vito",
-      "Nissan Primastar",
-      "Peugeot 5008 5+2",
-      "Peugeot Traveller",
-      "Renault Trafic",
-      "Toyota Proace Verso"
-    ]
+    "vehicles": []
   },
   {
     "sipp_code": "FVMR",
@@ -225,14 +294,18 @@
     "seating": "9 SEATS",
     "note": "OR SIMILAR",
     "vehicles": [
-      "Fiat Talento",
-      "Ford Tourneo Custom",
-      "Ford Transit",
-      "Hyundai Staria",
-      "Mercedes-Benz Vito",
-      "Nissan Primastar",
-      "Renault Trafic",
-      "Toyota Proace Verso"
+      {
+        "model": "Ford Tourneo Courier",
+        "score": 0.9
+      },
+      {
+        "model": "Toyota Proace Verso",
+        "score": 0.9
+      },
+      {
+        "model": "Fiat Talento",
+        "score": 0.8
+      }
     ]
   }
 ]
