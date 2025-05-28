@@ -1,0 +1,1445 @@
+{
+  "total_results": 240,
+  "cars": [
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JVVF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4ODg2NDQ0NzQ2ZDgyMDQ4YzY4ZmYyZjA1ODBmNmQ3OCJ9",
+      "price_eur": 226.11,
+      "price_text": "€226.11"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/S63L?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhMTMxYjY3MDEzMzI4ZjFiZGE2YTNjNDg5YmQ4Njk1ZSJ9",
+      "price_eur": 235.68,
+      "price_text": "€235.68"
+    },
+    {
+      "name": "Fiat Tipo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FQL9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhYzQzMWY4ZGRjMjJjMzg2ZWNkZGE3NmExNTRlZDRlNCJ9",
+      "price_eur": 256.28,
+      "price_text": "€256.28"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NHCQ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmMGYwMjk3ZGMzNWNjZDk0YzAyZWExNGQ0ZjMwYzBlMCJ9",
+      "price_eur": 258.7,
+      "price_text": "€258.70"
+    },
+    {
+      "name": "Fiat Tipo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/F2P2?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjNjRjNThhMmQxOGJkNThlYzU4OTA5M2UxN2U0MTFmNCJ9",
+      "price_eur": 267.13,
+      "price_text": "€267.13"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HVLS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkZTZhZmQ4MjliMmQzNWVjMTVmNmE5NmM5MWI0ZjBlZiJ9",
+      "price_eur": 273.66,
+      "price_text": "€273.66"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/E5CV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhYTg4MWY2MTk3YjRhYTY5ZTczYWI0OWI3ZTliYjZkZSJ9",
+      "price_eur": 273.8,
+      "price_text": "€273.80"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PHD5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2ODU5MWNhMTExZTllZGQzYWM2ZDI1ZjE3NTY1YjU0ZiJ9",
+      "price_eur": 274.37,
+      "price_text": "€274.37"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NRWD?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzYmM5MTE0MDYzZmRiZjk0MDE2MDYxYmMzNzY4YzczYyJ9",
+      "price_eur": 280.43,
+      "price_text": "€280.43"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/N476?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5NGUxMDQyN2JiNmM1NDQ1MGNlNzA1ODI4OGI2ZmNjNiJ9",
+      "price_eur": 285.23,
+      "price_text": "€285.23"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5PSG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0NmIzMzQ0NmM4YTI4MDVlZTRmNmU2YmQwZDRhNGIzYiJ9",
+      "price_eur": 285.99,
+      "price_text": "€285.99"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/32US?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2Y2UwZDc5NDhiY2RkZjQxZjQ5ZDBkODQ1ZjMwN2M0YyJ9",
+      "price_eur": 292.29,
+      "price_text": "€292.29"
+    },
+    {
+      "name": "Ford Tourneo Courier",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DJU8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxZDg1YWFiOTQyYmJkYjdmNDFjNDg1YzgwYTdjMDM4YyJ9",
+      "price_eur": 340.79,
+      "price_text": "€340.79"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BP5G?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxNzc2MTVmY2Y5ODExNTM4NTA5NmU2M2Y3MmNhZTIzNiJ9",
+      "price_eur": 342.04,
+      "price_text": "€342.04"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/B7KL?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4MzVhMzI5NWY1MzQwN2FiNGI3ODRmMDkwOTk2NTY5NyJ9",
+      "price_eur": 347.42,
+      "price_text": "€347.42"
+    },
+    {
+      "name": "Ford Tourneo Courier",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/Y4PM?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxNGYwOGY4NDQ2Y2RkMmU5MmVkYzBlM2UzYjkwMzQ1OSJ9",
+      "price_eur": 355.21,
+      "price_text": "€355.21"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BTUV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyYTAyMjNmODU0MzFhYjg0ODdmN2U5ZjRiMDhmNmYxMiJ9",
+      "price_eur": 364.1,
+      "price_text": "€364.10"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/954Y?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyYjExY2VhMzUzNTkyMGRiMGNmOTI3MzE1NGJhN2MxYiJ9",
+      "price_eur": 383.82,
+      "price_text": "€383.82"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SGLE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2MTZlZmQyMWZiZDM4ZTk4Y2VhMTE0ODgyOTBlNjhlMiJ9",
+      "price_eur": 384.13,
+      "price_text": "€384.13"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/S5G5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzNzQzM2YwZTZjNjIyYWVhODgwNWVlZWFmYjhlMjExNCJ9",
+      "price_eur": 391.97,
+      "price_text": "€391.97"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/G559?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxM2MzNWNiZDlmMDYyYmNhN2NiZGUzMWU2OWQ5ZDM3MyJ9",
+      "price_eur": 391.97,
+      "price_text": "€391.97"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LE8P?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1NTA1OTZiZGRiZDYxYmY5NjA0OGE1YzVjNjMwZWUzMSJ9",
+      "price_eur": 396.84,
+      "price_text": "€396.84"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3VQH?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiYWNiM2ZmMGQ4MjU0NTZhODg3ZjA0ZWE1OGM3NGZkOCJ9",
+      "price_eur": 404.94,
+      "price_text": "€404.94"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RV3Q?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzZDRlOGMyY2MyNmRjNzAxYzJhYmMyMjgyY2ZkMDBjNiJ9",
+      "price_eur": 404.94,
+      "price_text": "€404.94"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/43AA?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5MTdiMTUzOTRlNjZhZjFhYTdkYmJjYmIzMzBkZWM4MSJ9",
+      "price_eur": 418.67,
+      "price_text": "€418.67"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QJ7H?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiZmM2OGMyMmE2OGI3ZjRkMDU4ZGQ2MTFjNTliNTUxOSJ9",
+      "price_eur": 441.76,
+      "price_text": "€441.76"
+    },
+    {
+      "name": "Peugeot 208",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RQ5H?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MjY5YWQ2NDNlYzczYTNmNjczNDBkZThlMmRkYzUwMCJ9",
+      "price_eur": 448.03,
+      "price_text": "€448.03"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/VB58?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjNmI3OWZiMjQwYWJkZWMwNDM1Y2FhYmQ5N2M5OWZhNyJ9",
+      "price_eur": 457.24,
+      "price_text": "€457.24"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/H248?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmOTk3MjRlY2JkYjFiNDRhOGE2MjMyYTFiODk5MGNjMiJ9",
+      "price_eur": 467.04,
+      "price_text": "€467.04"
+    },
+    {
+      "name": "Peugeot 208",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3XPK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzMjliZDgzOWZkZGQxYjVlMTYyODI1N2U4ODJlMTFjNiJ9",
+      "price_eur": 472.74,
+      "price_text": "€472.74"
+    },
+    {
+      "name": "Fiat Tipo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3U9F?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyYjBiOGY3NWE1OTQ2ZGI3NjBkNWM0NDVhOGNiMjAzNiJ9",
+      "price_eur": 488.03,
+      "price_text": "€488.03"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5TG4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjZmZjNTc4MDE1NThhZjA3NDM5MzFiM2E5MDMwOTJlZiJ9",
+      "price_eur": 492.7,
+      "price_text": "€492.70"
+    },
+    {
+      "name": "Toyota Corolla STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2YPN?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiNGFhYjdkNGE2Y2M1MTBlNGUyMWZlZDg4M2ZlYzg3ZiJ9",
+      "price_eur": 493.08,
+      "price_text": "€493.08"
+    },
+    {
+      "name": "Fiat Tipo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/EWE5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhZmI1YjM5MzUyMzg2YmI3N2JlYjM0NWE5Y2JhOWVmMyJ9",
+      "price_eur": 498.49,
+      "price_text": "€498.49"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NQEH?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3OGQ1M2M4YjhmNjkwYWNmYWE2NTc3YTU1NTc0MzIzOSJ9",
+      "price_eur": 506.49,
+      "price_text": "€506.49"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LKHR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhMjYzMmU1N2UzOWIwMWQxMzE4OTJjM2U2NzczZGM5NyJ9",
+      "price_eur": 512.66,
+      "price_text": "€512.66"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/G3WV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlZTRlODc0ZjljMzg5ZDEzNTVjMGUxYjM5NWQyOWE5ZSJ9",
+      "price_eur": 514.41,
+      "price_text": "€514.41"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QN2U?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5Yjc0NDJjNzRmZGFkODQ4YjA0YTJiMjI4YmRjMzYwMCJ9",
+      "price_eur": 517.35,
+      "price_text": "€517.35"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/W4UR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MDE5NzYxNDgwMDU1MGY3ZWFlNzhlMjhiOGQ0NTBiMSJ9",
+      "price_eur": 519.87,
+      "price_text": "€519.87"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BWD5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlMDBjZGZkYjc2OTg1OThlYTFkZjY1M2ZkZGIwM2U1ZiJ9",
+      "price_eur": 523.65,
+      "price_text": "€523.65"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RJ8X?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjOGQwNGU4OTVjYTMwZGI5M2ZhYTg0NTY4Y2RiMjE5MCJ9",
+      "price_eur": 527.25,
+      "price_text": "€527.25"
+    },
+    {
+      "name": "Peugeot 208",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/C72E?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2MzU2MTRlOWE1MWM1MjkwNmQ1MzVhZGM3NDc1MTE5ZCJ9",
+      "price_eur": 544.69,
+      "price_text": "€544.69"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FTV6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzMWQ4YThmMjAzMWExYjQ4ZmEwOGRmYzI0MWYwNDYwNCJ9",
+      "price_eur": 556.32,
+      "price_text": "€556.32"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/J62S?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlOTlhNGIzZDA3MTVmMGEwMzgwYTQ5NmM2NTg1NmM3NSJ9",
+      "price_eur": 564.19,
+      "price_text": "€564.19"
+    },
+    {
+      "name": "Ford Focus",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6BA3?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmYWRiMDU0ODJlMzY5ODE1ZTU0MDBlY2MxODA3NGRkYyJ9",
+      "price_eur": 567.79,
+      "price_text": "€567.79"
+    },
+    {
+      "name": "Ford Tourneo Courier",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PW65?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlNDcxYWY0ZGY5NDAyNDBlYjAxZTEyZTZkMGIzY2Y1MiJ9",
+      "price_eur": 574.26,
+      "price_text": "€574.26"
+    },
+    {
+      "name": "Ford Tourneo Courier",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YRJT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5YjRlZmY5N2QwOGZlMDNhZjg4ODM3Njc4NzJhZTE0YSJ9",
+      "price_eur": 586.57,
+      "price_text": "€586.57"
+    },
+    {
+      "name": "Fiat 500",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/EFES?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2NDk3ZTc1N2MyZmMwMjc3YzE2ODMzMjZhMzEzMzcxZiJ9",
+      "price_eur": 590.74,
+      "price_text": "€590.74"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5S26?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkNWQ2OGJlZjFjNGUyZmNmOGM2NTc3MDVjNzU0NjcwYSJ9",
+      "price_eur": 595.29,
+      "price_text": "€595.29"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/B5US?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwYzM4ZjBkYmNjMzM1YmRkZDkwNzk1OWE4NDMxOThlNSJ9",
+      "price_eur": 616.18,
+      "price_text": "€616.18"
+    },
+    {
+      "name": "Chery Tiggo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/GFSF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiYTZjMmRmNWIxOGE2NWRlNTNlNjMyYTY1NjhiODBjNiJ9",
+      "price_eur": 620.7,
+      "price_text": "€620.70"
+    },
+    {
+      "name": "Lancia Ypsilon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2AM2?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlYTMyZTQ3ZGE4NzQzOWZjNjg5NzlmMTU1NDQ3NTQzNCJ9",
+      "price_eur": 626.36,
+      "price_text": "€626.36"
+    },
+    {
+      "name": "Kia Sportage",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/MKTY?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiNmExOWUxN2E1NGM1NzEyMzRlOTYyNTJiZTU5MWZlMSJ9",
+      "price_eur": 627.72,
+      "price_text": "€627.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/AF9G?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiMWMzZDJiMjA2YWJjYTM3ZWM2ODAwZDk0OTUyNTQ3NCJ9",
+      "price_eur": 648.65,
+      "price_text": "€648.65"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JN7R?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlNDUxMjdiNjllMjkzYjJlMWVlN2U1YWFiZmRmMWMwOCJ9",
+      "price_eur": 649.53,
+      "price_text": "€649.53"
+    },
+    {
+      "name": "Kia Sportage",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LNU4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxOWU0Y2E5OTQxYzFjNTY4ZmQxYWNhMTM2MDA5NzRlOSJ9",
+      "price_eur": 653.59,
+      "price_text": "€653.59"
+    },
+    {
+      "name": "Chery Tiggo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/4XYX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5ODczOWM2MjM4MzdmMTU4YjRhZWVjY2YzN2E5MmI2MiJ9",
+      "price_eur": 654.93,
+      "price_text": "€654.93"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/WN9H?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0YzJmMWYyNzBlYjIxZTgzMjdmMmMzY2M1MWNiMjZjMSJ9",
+      "price_eur": 664.44,
+      "price_text": "€664.44"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/M43B?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiM2JmMjdkNjhlNjkyODY4NzU0ZTVlM2I3M2E4ODBiNiJ9",
+      "price_eur": 683.76,
+      "price_text": "€683.76"
+    },
+    {
+      "name": "Chery Tiggo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RAY4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkYTNiNWExNGY4MDk5ZDRkZDJiNDY0ODVkMzJjNjM0OCJ9",
+      "price_eur": 722.71,
+      "price_text": "€722.71"
+    },
+    {
+      "name": "Fiat Tipo STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/P4T5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzMmY1NWQ3NDhiMzAyNmZkMjBkY2I3Nzc3YWRhYzg3NSJ9",
+      "price_eur": 733.74,
+      "price_text": "€733.74"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ME2R?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5MGEwYjUzOTQxMWJlZjkxNjU5NjQxNGIzZTlhYzQyNCJ9",
+      "price_eur": 739.42,
+      "price_text": "€739.42"
+    },
+    {
+      "name": "Chery Tiggo 7",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PUH8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwNTEyZTFkNjBiNWVmZDc1YjAyNzVhODgwZTE3MjgwOCJ9",
+      "price_eur": 754.21,
+      "price_text": "€754.21"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DYVU?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjYWUwY2EwZWRhNGY1Y2I3NDc0Mjg5OGYyNzQ3ZDkwMCJ9",
+      "price_eur": 766.62,
+      "price_text": "€766.62"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/A4Y6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3ZjJiM2E4NWI2NmNkNjMyMDk1ODQ1ZmIzNDEyZGJjZCJ9",
+      "price_eur": 766.64,
+      "price_text": "€766.64"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/MBBP?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3OTI0ODE3NGI0ZTZjMThlNWI5ODYxNzIxYTU4N2FjMiJ9",
+      "price_eur": 766.64,
+      "price_text": "€766.64"
+    },
+    {
+      "name": "Fiat Tipo STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/7WTQ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2YTAxZjA4YWNiZWY3MzJiMzM0NTVjMmNjYTQ0ZWQzNCJ9",
+      "price_eur": 774.17,
+      "price_text": "€774.17"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KL8Q?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3YTQ3NjU2NjM0N2Q0MzA5OGIwYWU4YTg0MGRiZWM4MyJ9",
+      "price_eur": 780.16,
+      "price_text": "€780.16"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/M9EA?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkYTY0MjVjYzhmMGNlZmI2Zjc4NmE5NDk5Yzc1YjVkYiJ9",
+      "price_eur": 781.95,
+      "price_text": "€781.95"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/XLEY?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxYTJiNDQ0MWUwODE4NjhjMTc0MWE4NGZiNjY0MjE0ZCJ9",
+      "price_eur": 781.97,
+      "price_text": "€781.97"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NLG9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3OTJlN2E3ODQxZTRjOTliZTM1YTAwYTM4OGJkZWE1MiJ9",
+      "price_eur": 781.97,
+      "price_text": "€781.97"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/WET8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1YzlmOWM2OTBjNjE0MDlkNmQyNTQ5NzAzMjk2OTMwYiJ9",
+      "price_eur": 791.98,
+      "price_text": "€791.98"
+    },
+    {
+      "name": "Chery Tiggo 7",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6MXX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiYTFiMzFhNjc4ZjY1OTU0ZTJhZTU5MTgyNGIxYjY5MCJ9",
+      "price_eur": 795.78,
+      "price_text": "€795.78"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/42CT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwN2UyYWMwYTI0Mzg2N2I5NDc1NzU0MTc4NWVhZGE5MSJ9",
+      "price_eur": 814.76,
+      "price_text": "€814.76"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YMKG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3NWQ5OTE1MzE0MDI2Zjc3ZDMzY2Q3ZDBiOWEyYWY5MiJ9",
+      "price_eur": 835.62,
+      "price_text": "€835.62"
+    },
+    {
+      "name": "Fiat Tipo STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/75C9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkMWZmNTYwMmM5YjdhN2RlZGVkMjBlOTI2ZWRjOTlhZCJ9",
+      "price_eur": 839.23,
+      "price_text": "€839.23"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DBPR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0ZTFmYTJiMmVhOWViZjIwNWNiOTNkMzU1YmQ0YmZkNSJ9",
+      "price_eur": 858.86,
+      "price_text": "€858.86"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/X2TT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0ZjlkYmE0ZjA2YTc0ZTVmMTExZTZhMzgxYmJmNTE3NyJ9",
+      "price_eur": 860.48,
+      "price_text": "€860.48"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YXMT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjY2QwOGRkNmYzYjU4MzM4ZjZmYmM3MDZmZTE5OGRlMSJ9",
+      "price_eur": 860.52,
+      "price_text": "€860.52"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/Q79K?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhOThmNmJjYTc5ODM5NDMyMDAzNzc3NjBmNWFjN2NiMSJ9",
+      "price_eur": 860.52,
+      "price_text": "€860.52"
+    },
+    {
+      "name": "Kia Picanto",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YXMG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkOWU2NTE3MGEyN2QyZjNhMDc0YmZlNmVlOWQ0OGRmOCJ9",
+      "price_eur": 876.0,
+      "price_text": "€876.00"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RP7D?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxODlkYzcwZmNhNjZjMGFkMWY4YWRmYjM4MjI5OTQxNCJ9",
+      "price_eur": 877.71,
+      "price_text": "€877.71"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YSPF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwOTlhM2I5MGIzMDMyZDg4YmE5ZTdhMDJmYzczM2Q2ZSJ9",
+      "price_eur": 877.72,
+      "price_text": "€877.72"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/CLQW?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4OGIwMjVjMmVlYTJhMDM5M2JiMjI4Yzc3ZWQ1OTJjYSJ9",
+      "price_eur": 877.72,
+      "price_text": "€877.72"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/G6C8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5NTIwZWIzMDcxNzZmNTg5MmUwNzQyZGQ0MzE1Y2U0OCJ9",
+      "price_eur": 878.31,
+      "price_text": "€878.31"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/M35G?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiYjk1NjhlMWJkNTdkN2ZmMDg5ODNkZGFlZmUwMTgzMyJ9",
+      "price_eur": 899.61,
+      "price_text": "€899.61"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LF76?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwNzdhMjUxY2RkYmYwYjY5ZjhkMzQ5NTgwOTZjOTBkZiJ9",
+      "price_eur": 899.61,
+      "price_text": "€899.61"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RUL9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzODQ5YWU5NzhmYWY2NTFjNTUzYjAzNjgyNzRiZmU4YSJ9",
+      "price_eur": 899.63,
+      "price_text": "€899.63"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LSLT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MTc4MGZiYmYyNTczNjY5YWRhMDVlMmVkYTc0MWEzZiJ9",
+      "price_eur": 899.63,
+      "price_text": "€899.63"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/UJMT?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2NTc3YTAwOTFkNjdmYTcwNjcxZjc5ZDQ3NDIwNjVlNyJ9",
+      "price_eur": 904.3,
+      "price_text": "€904.30"
+    },
+    {
+      "name": "Kia Rio",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/96BL?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkYzMzZTE3YjY1MTJhY2FiZTY0Njc4MmJiNmJiYzExMiJ9",
+      "price_eur": 907.63,
+      "price_text": "€907.63"
+    },
+    {
+      "name": "Kia Picanto",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PGM4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjNmI5YjYxNzI4ZTg4MzQ3MzA4YTYzMWI5ZjE2NGE0OSJ9",
+      "price_eur": 912.18,
+      "price_text": "€912.18"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2TW8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4YmJlYmQ0ZmU5M2Q0NTEyZWVhMWY5ODMyYWNhMzNhYSJ9",
+      "price_eur": 927.85,
+      "price_text": "€927.85"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/K9U9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzMDMwYjNiMjVmMDcwNTY2ODc4NzZiOWM4NzRiYWYxNSJ9",
+      "price_eur": 941.68,
+      "price_text": "€941.68"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/H3YM?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwYWNkYjg2MmZjOTk4M2E0OWM4ODM5MjIwMzI1MmFmMSJ9",
+      "price_eur": 942.37,
+      "price_text": "€942.37"
+    },
+    {
+      "name": "Chery Tiggo 7",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/523H?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjMThiMWMwMGNkYmI4ZTMxY2Y4ZjI1YjY5NTI1YTA2ZCJ9",
+      "price_eur": 943.12,
+      "price_text": "€943.12"
+    },
+    {
+      "name": "Jeep Compass",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/XHP4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwYTNlMWYxMTA3MDkyMzIzMjNlN2U2NDJhMzIxYmQ3NCJ9",
+      "price_eur": 950.5,
+      "price_text": "€950.50"
+    },
+    {
+      "name": "Fiat Panda",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/Q54F?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlZDlmNTY4OGJkOTdmOTBjZWI2OTNmMTY0M2UzNzFjMyJ9",
+      "price_eur": 955.92,
+      "price_text": "€955.92"
+    },
+    {
+      "name": "BMW 3 Series STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BNUV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmODM1YmVjNjY5NTQ4NGZjMjQ3OWJjZjhmMDlmMDZlZiJ9",
+      "price_eur": 978.59,
+      "price_text": "€978.59"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5S58?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0NWEwYTY1ODVmOTY0N2ZkNmM3ZmIyYThjZDhjZmU3ZiJ9",
+      "price_eur": 982.04,
+      "price_text": "€982.04"
+    },
+    {
+      "name": "Kia Rio",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BT36?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2MGQyOWU0MmNlNGRlZDk0Y2Q0Njc5MGVmNGI1NTFlZiJ9",
+      "price_eur": 986.87,
+      "price_text": "€986.87"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FFVX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwZjVkOTYzNDE4MmZhN2NlNzFhMWUyZjcxMWY0ZjUwYiJ9",
+      "price_eur": 988.09,
+      "price_text": "€988.09"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/UPDA?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1ZjUzOGZiY2I4N2IwNDI0NzlhYTFhYmY2MDMwNmI0ZSJ9",
+      "price_eur": 993.39,
+      "price_text": "€993.39"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6KJE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiMzAzZGVhY2RjMzkwZDUyYWFiN2VjYmY2MmUwMTY3ZSJ9",
+      "price_eur": 996.24,
+      "price_text": "€996.24"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TTAJ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjZTgwZTFmYjZmMDdkZGEwMTBmZWU4NzVhZWJiMDE4NCJ9",
+      "price_eur": 996.24,
+      "price_text": "€996.24"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/P5WQ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyMzg0OWMwODJkZWNlN2I4ZWU5ODgwYWI4YzhhNmZiZSJ9",
+      "price_eur": 996.25,
+      "price_text": "€996.25"
+    },
+    {
+      "name": "Opel Corsa",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KPUY?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2MGQzZmIzNTI4ZGY3MmMzMjQ4OGE0MmYwYThiMmI3NCJ9",
+      "price_eur": 996.25,
+      "price_text": "€996.25"
+    },
+    {
+      "name": "Jeep Compass",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/MUCK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzZDU0YzNjZTgwZWNhZmJmNDkwMzlkMTMwN2Y1YTIxNyJ9",
+      "price_eur": 1002.87,
+      "price_text": "€1,002.87"
+    },
+    {
+      "name": "BMW 3 series",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TMLN?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1ZTY2YTNkOWJkMzE4ZTk2YmIxNGE2NzJiYTkxZGEyMiJ9",
+      "price_eur": 1026.96,
+      "price_text": "€1,026.96"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DF5F?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwMzBmYmI3MzBkODM0N2JlOTU1OTE4YjRjZGE5YWYyNSJ9",
+      "price_eur": 1041.58,
+      "price_text": "€1,041.58"
+    },
+    {
+      "name": "BMW X1",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/R5AK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmYjYxMzZkYjJiMjJkMmZkZGE3OWYwMmQwOGMzMGI3YSJ9",
+      "price_eur": 1056.91,
+      "price_text": "€1,056.91"
+    },
+    {
+      "name": "BMW 3 Series Touring",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ELFF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1NDI0Zjk4MWQxOGQ4MTQ5NTk1MTYyNDc3ZWU1NDEzNyJ9",
+      "price_eur": 1076.99,
+      "price_text": "€1,076.99"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/25CK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5OTBjYTYxNmFkMzQ1N2RhMTZkYTkyZGIyYTllZDNhOSJ9",
+      "price_eur": 1084.51,
+      "price_text": "€1,084.51"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/VMC4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxNGE2YzY1ODMzMDY0NDBhZTc2MTlmMjcyNzZhYWQ4OCJ9",
+      "price_eur": 1084.51,
+      "price_text": "€1,084.51"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3AML?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlN2E0MTRlMTlhOGRiNzFmMDY5M2NjNzBjZDIwY2E5OCJ9",
+      "price_eur": 1084.52,
+      "price_text": "€1,084.52"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TAVR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3Yzg5MDE2ZTUyYjRlNTg3M2Y4ZjA3YzkwOTBiZGIyYiJ9",
+      "price_eur": 1084.52,
+      "price_text": "€1,084.52"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NQFX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiN2JiNWMwNzE3OTIwNzgyM2FiODBlNzRhOTI1NjI4OSJ9",
+      "price_eur": 1084.52,
+      "price_text": "€1,084.52"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/P37X?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2MjBlOTAzZWQ5OTNmNGYyZWVjZTFlOTQyMWMyYjU4ZiJ9",
+      "price_eur": 1084.52,
+      "price_text": "€1,084.52"
+    },
+    {
+      "name": "Alfa Romeo Tonale",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JB3G?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5MGY4NjA2ZDgyYjhiNTUyOTc3NTA5ZDhiZmIwM2Y5MSJ9",
+      "price_eur": 1085.33,
+      "price_text": "€1,085.33"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/L86M?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjYzBhNTU5ZjI3NTljZjIyOWNlMDFiNWMxM2Y5N2YzZSJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/A8CJ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwMGEzZTA0NmZjNTA4NmUxMmFlZDVmZmY4ZWJjYWExMSJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TYJB?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlMzA1YzIwYzI0N2I2YWQ2YzhjYjIxMTVlNzY4MDU4ZCJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LCHV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1MGUyNWNjMjQzOTNjZThhYzFiNjU0NDQ3NjU0ODA4ZSJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/UBU6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhYzkyODYwMmVjMTU1Y2NiZmUwMzJkODAwNGY4YTM5ZiJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/G6P6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwZTEyN2U0M2MzOTQ2OGNiYmUxNWU0YzVjOWQ0NjE4MCJ9",
+      "price_eur": 1126.37,
+      "price_text": "€1,126.37"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/P3LJ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4N2VmNGM3YjkwN2NjNTU3NjM0YzZhYzVmMjVlY2M0NCJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2RNE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiMzhmYjc0ZGVhNjU0M2FhOWU4NzNhZGNhZmYxM2ZmOSJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LCA8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjNTkwZWVhNDcyYmE3NWY0NmM2YzNkYzZjYzJmZGZhMCJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/D6K8?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MGQ3OTZjZWI5OGM2NTRlMDlhNDQ4NGJmYzg2OGM3NiJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2BK5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlYTYzZTJmZjJjOThmN2RmYWM0M2M1NTE5YjBjNDUwZiJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HULH?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2YmRjNmM2NWNjMThiZmVjNjEyM2QxMzE0ZGMwMDVhNSJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Volkswagen Golf",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/NQ5B?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5ZTkxODlmY2Q5ZThjY2JkOGRjZTE2NzlhYmIzMWEwZCJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TKFV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzOTkzMDkxNzdmYTEwZTA2MDAxNGFjYmIyNGMyN2I5YSJ9",
+      "price_eur": 1126.4,
+      "price_text": "€1,126.40"
+    },
+    {
+      "name": "Alfa Romeo Tonale",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ER9E?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3MTQ0MmI3M2JiYWUyZmM3MjlmNjJhMDRkNjk4MjFjOSJ9",
+      "price_eur": 1145.12,
+      "price_text": "€1,145.12"
+    },
+    {
+      "name": "Jeep Compass",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/L3HB?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhZjBmY2Q2MTIxZDIzOWE4M2ZmMWQ2OTEzMmU0YzE0YyJ9",
+      "price_eur": 1145.47,
+      "price_text": "€1,145.47"
+    },
+    {
+      "name": "Volkswagen Polo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/VDHE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjMzg4NTEwNTBjZjg2OGYwNGFmMzc1NTMxNWQyNjhkOCJ9",
+      "price_eur": 1167.47,
+      "price_text": "€1,167.47"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/74YC?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyOGJmMzBkZWFjMDU0MTljM2VjYzA1ZTEwN2M0YWIzNCJ9",
+      "price_eur": 1174.95,
+      "price_text": "€1,174.95"
+    },
+    {
+      "name": "Seat Leon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5UJ4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3NDA1YWM2NzI5NTFhOGNmZDNjZDE0MzVjY2JlYTQxNyJ9",
+      "price_eur": 1188.19,
+      "price_text": "€1,188.19"
+    },
+    {
+      "name": "Volkswagen Polo",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/CBH4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyYzc5ZDYxODdiMDJhNTE3MjE2M2ExY2VlMDQxOWQzOCJ9",
+      "price_eur": 1216.07,
+      "price_text": "€1,216.07"
+    },
+    {
+      "name": "Fiat 500X",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SHAQ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyNGFlYmE2ZDM0ZGZlOTRlNDIxN2Y3MGM1ODYzMjc4NiJ9",
+      "price_eur": 1223.87,
+      "price_text": "€1,223.87"
+    },
+    {
+      "name": "Toyota Proace Verso",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BW8K?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkYjRlYzM2OWQ2YTVmNjM5MjZiMzcxZjkwNzJlZGVhNiJ9",
+      "price_eur": 1237.47,
+      "price_text": "€1,237.47"
+    },
+    {
+      "name": "Smart Forfour",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YVME?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjMjhjNzBjOThhYzA2ZDEzMGQwYjU4YzVhOTFiZDBmZiJ9",
+      "price_eur": 1274.83,
+      "price_text": "€1,274.83"
+    },
+    {
+      "name": "Seat Leon",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3Q8E?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzZDA2NjZhMzZiYjBkN2QzZWNiYzk4ZWU5YzQ3MTQwOSJ9",
+      "price_eur": 1283.01,
+      "price_text": "€1,283.01"
+    },
+    {
+      "name": "Alfa Romeo Tonale",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HX5T?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1ZDY5NDAyNjRlYmVhOGMyOWVhZjIzZjlmMGM1MGI2ZSJ9",
+      "price_eur": 1284.47,
+      "price_text": "€1,284.47"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SL8H?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3YTNmODg2NGQ1N2EyNTk0MDAxOTAwZTEwZmVhNGJjNiJ9",
+      "price_eur": 1289.74,
+      "price_text": "€1,289.74"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5988?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiZTViM2NkNmJhMDRlMWI0MmJkMjg1ODVkMzQ0YmQ0YSJ9",
+      "price_eur": 1293.51,
+      "price_text": "€1,293.51"
+    },
+    {
+      "name": "BMW X3",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HFBP?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwMjRkMzI3YmFlYmJiMTIyNzRjODI3NDU2N2VhNWY5MCJ9",
+      "price_eur": 1299.93,
+      "price_text": "€1,299.93"
+    },
+    {
+      "name": "Citroen C5",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ERKY?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2OWUwNWMyM2UwZTc3YmRjMjUzMWNjNGUxZGM2NTM3ZSJ9",
+      "price_eur": 1307.18,
+      "price_text": "€1,307.18"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/9TPW?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MjJlNzUwZTdhN2E4ZWQwM2Y3NTAwNGU4MTI1YWJmNyJ9",
+      "price_eur": 1343.54,
+      "price_text": "€1,343.54"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/N544?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4YmExYWI5ODZjNGVlYTdiZmI4NjhkOTE0M2MyZDExYyJ9",
+      "price_eur": 1351.67,
+      "price_text": "€1,351.67"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/D97F?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4NjY3ODlhNmJhMTEwMjBiOTA2MTAyODI1ZWI2N2IzNyJ9",
+      "price_eur": 1351.67,
+      "price_text": "€1,351.67"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/52N2?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjN2UzOTQ2NmRmMzBkYmEwYjBmZDFjODZjYTRmZTVhYyJ9",
+      "price_eur": 1351.67,
+      "price_text": "€1,351.67"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/XGFA?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0YzMxMWFiMTljNzUxOGU4ZDJlNWE3ODA0YzkyNzliNiJ9",
+      "price_eur": 1351.67,
+      "price_text": "€1,351.67"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5XKW?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0OGQ4YWZkYTNkNzNlNmExYWE2NjVkMzljZTkyM2I4YiJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6FTV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyZWMzNGRjNGY4Njg2MjA0YjE2ZThhN2ZlNWExYjU0MSJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QEDB?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3YWNmYTg5ZTg0MjBlM2ZiZmM0NTc3ODk3OTdjOGE3NSJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FYKS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhNmJkMDRmOGQxNWY3ZjY2MGNlMGJkZWMxN2M4MGM3MSJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QLW3?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiZTA3NTEzMDBjYzBkMmU4NGI1MWQxMmFhZWIyOGM1YiJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Volkswagen T-Cross",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/TQ4P?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3MDFmNzQ2YTc0YTc5MzJhYTFlYjY4OTg4NGQ4ZmIyOCJ9",
+      "price_eur": 1351.68,
+      "price_text": "€1,351.68"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/8VHK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxYjc5MTRlOTQ2NjI0ZTMyZGVkZjRkNTJjZTZlMTM1ZiJ9",
+      "price_eur": 1363.51,
+      "price_text": "€1,363.51"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5X78?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzYTFjZjAyNjg2YzRhNmEzMDY0OGI0MTMxOGZjNGY2MSJ9",
+      "price_eur": 1378.71,
+      "price_text": "€1,378.71"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PUCJ?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4ODQzZTcyNTk5ZmIzNmM1MmJkNDhhYWJlMzQ2NGMyNSJ9",
+      "price_eur": 1378.71,
+      "price_text": "€1,378.71"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QXCX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjYWE5MjZmNGFlNzU3OTE0YmNkY2JlYjFlMDk0ZGQyNCJ9",
+      "price_eur": 1378.71,
+      "price_text": "€1,378.71"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2R38?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyYjhjZTJlNmZiYTFmMGY0OGRkOTJkMTFjYWQ4YmU5MiJ9",
+      "price_eur": 1378.71,
+      "price_text": "€1,378.71"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KCML?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0NjAwZmNkMTMyYjEzZWUwNjZhNmQ5OWM1ODQ3NWQ4NyJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/AFFN?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyNzllZjdmOTFiNGQwYjgwZjA3OTFlMzhlYmZjY2U3MyJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FXRS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjM2RlMjFjN2YxZmUzMzIwYmFkZTBiZDQyYWZmNGNlOSJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/P63F?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxMGNmMjNhOWUwOWNjYWQ4MmQ5NzkzYmNmZjcyNTVlMSJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/K5VV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjOGMyMTBmMDdlOTdjZmNkZDJmMmUxNjI3YTAzNTFmMiJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Volkswagen T-Roc",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SYTF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiZTk3YjQ2OTFmYzJjNmRlNWNiYzk5ZmM2ZWRlNmEyNSJ9",
+      "price_eur": 1378.72,
+      "price_text": "€1,378.72"
+    },
+    {
+      "name": "Jeep Renegade",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/PK5N?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5YjY0ODIyNDZlYTkzMTk3ZjdhMTJkNjgyYTRhNGRhMiJ9",
+      "price_eur": 1408.6,
+      "price_text": "€1,408.60"
+    },
+    {
+      "name": "Audi A3",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/4XX4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0YjExODE4MTMwY2U0NWU0YWY3ZTk4MzMxN2Q4YTQyMyJ9",
+      "price_eur": 1416.02,
+      "price_text": "€1,416.02"
+    },
+    {
+      "name": "BMW 5 Series Touring",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/W6MU?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4ODljNjE3MjA1NDhkZmVkZGY0MTcyYmUzYjZmY2UyYSJ9",
+      "price_eur": 1417.93,
+      "price_text": "€1,417.93"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ETL9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlZjRlYTFhZTM3NGNjNzFmMjNiYjM2NzM1NzQyYTEyNCJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/WJF9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4NGI4N2QyNjU2MjRlNGIwZmRiNDQ5MWM5N2QxOGY3YiJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/8XBW?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1ZDJmM2JjMGI3MjM4ZjVmY2ZhZDAwZTQ2N2IyZjQxYiJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JU9J?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiMTBjNTk3ZjEyOGEyNzIwZjYwN2YwNzRlZmEzMTBhOCJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LMEV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2ZWE4ZmEyOWMwMWM0Yzk5ODlmN2MyZGNlZmM0MzY5ZCJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/VVLW?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzN2VlOGVlMmJlMzYxNmJlNTc2NWE4NzZlM2Q3ZjlkOCJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KNSM?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjZWQ4MDc3MTVjZTdiMTBkODA4MThlN2Y5ZDk5YjhiYSJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SYDC?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5ZjczMmQwM2JlMjkwMDQ2NGI2NTFhNjIzZGI2NDJjZCJ9",
+      "price_eur": 1464.29,
+      "price_text": "€1,464.29"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6YEH?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3OTA5MzExYTY0MmE3NmY5Y2JhYzFhNWM1YWJhMzEwZSJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3E5M?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4YjgwNzAzZjBmZTM4MDI1ZDM2ZDEzYTMzMTFkNThhYyJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6LD9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5MDUzY2NkZGM4ZDg0ODdmNTFjYzRkNjMxMjM2MzE0MyJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/T3DN?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5NDkwYjU2YjhkODQ1MDQyM2Q5YmIwYmZkYjg0NWM5ZiJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/67XB?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0ZjI3ZGVkMmJhMWU5NDI2M2ZjNTMxMGNkYzRkNDc3ZSJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Peugeot 3008",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/F4FY?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2M2I2NWI4NGQ3MGQwZDY4ZjYxODAzZjBkNzNkM2UwMyJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LUCF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxOTFjM2RmNzc3NzEyYzI4MTBlZWFlZTU1OGEyNWJmYSJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DJUP?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3NDEzMjkxYmIzMjk5N2Q0NDA1ODdkY2Q2OGVlMzhmYSJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/M477?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwZDgzYmJlMDE3NWQ3N2NmNDMxZmI3YzEwYTIxZDVlMyJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/8PRU?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjMGY1OGM2NGM3YmJiNGQ0ODVmOTQwMTJjYzMyODA2ZiJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/BWC9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlYmYwYzA5MDMyNTc4MzFmZTBlNmIyZDg5OWI1MGZlYyJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LQ3U?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0MmMyM2NjZjNkNTY0Y2NjZTczZTYyMzRlNDNkNTI5MiJ9",
+      "price_eur": 1464.31,
+      "price_text": "€1,464.31"
+    },
+    {
+      "name": "Audi A3",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KQ5S?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyMmJmMTA0M2FiZDY4YWNhZTdiZWIwMmU1NjgzNGNmNSJ9",
+      "price_eur": 1475.2,
+      "price_text": "€1,475.20"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/C8HN?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzNjNlNGEwNDAzMTY3NWJjMmM3MzIxMzBmMjU4MzkyNyJ9",
+      "price_eur": 1496.49,
+      "price_text": "€1,496.49"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/YMWM?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyZDMxZjRhMDE1OWE3NzljZWQ1OWIzMDg0MDMyNzRkZiJ9",
+      "price_eur": 1500.77,
+      "price_text": "€1,500.77"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SGGC?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0OTNmYTU4MmRjOTQ4OGJlOGQ4ZDQ2M2NjMWUwOWUyYiJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FTTS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1MjUzODI4NjdmNDlkZGM5MDg3NDk2YTNjNjA1YjQ5MyJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5N8Y?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwNzdhMDNkOTUzYmUxM2M3ZjhjOTYyOTkyZGVhZjNjYSJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SAY6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxOTVmMjEzNmYxMDAxMzI1ZmZjYzVhOThkMjA5OTY2NSJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/4S38?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjNTcyYWFhY2Y2ZDIzYThmNmM3ODY1MzY0NjY5NzBhZiJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/AT3Q?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmNWRiMWQ0YWFlODJiNDY0NTdkZWRjNjM3NDZmYmFiYSJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JGDK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxNTRlOWE2NzUzNDMxYmU4YWJiZjRjNGM2MmEwZWVjZCJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3FQR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4MjI2NDU0ZWU1NjA3N2VhYTYzMTJiMzBhNDFmMDE3MSJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/DEEE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlZTY4MDE4ZmJjOWU1MzM1N2QxOGQwYjJiNjlhOWRkOSJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/QDUR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3N2JjODQ0ZmMyMmUwNTFhYWZiZTRkZDRmMWMyNjc2MyJ9",
+      "price_eur": 1520.65,
+      "price_text": "€1,520.65"
+    },
+    {
+      "name": "Audi A3",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SP6S?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0NGRiNDhkMzc1OTNiY2VkYjJlODFjMTE3ZWU0MjRlNyJ9",
+      "price_eur": 1546.77,
+      "price_text": "€1,546.77"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FE8U?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwZDk2ZDIzYTgwNmVlOWEyZTJlM2E0MzcxMmNmZTQzNSJ9",
+      "price_eur": 1577.46,
+      "price_text": "€1,577.46"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HMQ6?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1MGRmOTY1YTA3MDcxYjhlZjJiMzczOGY0NzY3YjE2ZCJ9",
+      "price_eur": 1579.82,
+      "price_text": "€1,579.82"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/VB5K?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2YmJhMjg5YTk3ZjMyODZmN2ZhZDFkODM4OThlYjNkYSJ9",
+      "price_eur": 1581.98,
+      "price_text": "€1,581.98"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/LMFL?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlYTZlZGY5MTE4YzU5NWM0OTJhYTZkY2ZkYzJjZmVhOSJ9",
+      "price_eur": 1665.3,
+      "price_text": "€1,665.30"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HC73?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhYzkzM2NhYjE0NGEyMTQ4Y2RjMzMxZmRhM2FjMzFjYyJ9",
+      "price_eur": 1689.59,
+      "price_text": "€1,689.59"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/T6LR?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJmMGIwYjVlZWQ5NjdhYjNmYWEyZTNlNDg4MjhhODFhZiJ9",
+      "price_eur": 1689.59,
+      "price_text": "€1,689.59"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5VTD?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkNjlhMjA0N2I4NTBiMDFhMGJhNDMwYjE4YTJkNmFlNiJ9",
+      "price_eur": 1689.59,
+      "price_text": "€1,689.59"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/M7DV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3YWIwOTEyYmI1ODY2Nzc1YWZhMWUyZTMzYjZjZmViOSJ9",
+      "price_eur": 1689.59,
+      "price_text": "€1,689.59"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/KPY9?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5ODNiMDBmNjZhMTcwZjkyZTBiMGMxN2FlMWQyZTBmMiJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RMMG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjZjM0NzA1YzA2ZTkxYWIyMzQxNTFhYmU3ODc5MDA5MiJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JPC7?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIxNzMyODdkYTk0YTU3OGUyNmM5ODEyYmFhOTk3YmYyZiJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/SG93?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlYjhjNThmNjMwNGIwYTYwN2ZmMmViNmNjY2IxYjY1OCJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/FKJ4?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJiNWM5ZGIyYmE5NTJlZTA0NWUyZTY0MjhlMzU1ODkyYyJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "Skoda Octavia STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/MBY7?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIwZDBlNDM5ZmMyYjA5ZjliMWQzZTBiZjBiOGNlZmY0MCJ9",
+      "price_eur": 1689.61,
+      "price_text": "€1,689.61"
+    },
+    {
+      "name": "BMW X5",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/ANNM?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIzYzdkNjgwNThjN2IwMWJmNjhkZmNhMGYzMTU2NTUyNCJ9",
+      "price_eur": 1735.94,
+      "price_text": "€1,735.94"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/2BRG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3YmFhNGQyMDIwMWIxZjliZmY5YmE2Mzg1MWVkN2RlZSJ9",
+      "price_eur": 2131.55,
+      "price_text": "€2,131.55"
+    },
+    {
+      "name": "Ford Focus STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/A685?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI1N2JkYTEzZWEyMTg5YjliOWM5YjhkYzc1OGExZjQ3YSJ9",
+      "price_eur": 2221.21,
+      "price_text": "€2,221.21"
+    },
+    {
+      "name": "Fiat Talento",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/EJEK?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI2YzUwYmRlYTNmNjZhMWY4NDYxNTNlYzY5Y2EyYTU0NCJ9",
+      "price_eur": 2385.67,
+      "price_text": "€2,385.67"
+    },
+    {
+      "name": "Seat Leon STW",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/6NJF?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiIyZmQ5Nzg3OTQ3OTI2MDRlYWM0ZTkwYjBhODEzYWM4NiJ9",
+      "price_eur": 2397.89,
+      "price_text": "€2,397.89"
+    },
+    {
+      "name": "Fiat Talento",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/7R39?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0YzY5MzVlNjY3YzdlZDZhMDVmNmE1ODZlYThlNTZiYyJ9",
+      "price_eur": 2517.04,
+      "price_text": "€2,517.04"
+    },
+    {
+      "name": "Fiat Talento",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/3CYE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4MDY2NWI1MjEwYzE1YjEyNzY5YWRjOWE3MGY5ODNhOSJ9",
+      "price_eur": 2676.76,
+      "price_text": "€2,676.76"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/84MU?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0N2QyNWZhNjliNTdhMTc2ZDFkN2E3ZWQ4NjA1MmQ5OCJ9",
+      "price_eur": 4105.07,
+      "price_text": "€4,105.07"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/D2G5?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhNmJiYTA4NTcyNmUzOWExYTU3NmE2MGIyNmJlMThiYSJ9",
+      "price_eur": 4105.07,
+      "price_text": "€4,105.07"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/88M7?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI4YjNiZjM0YTgzYzBiZmVmZWJiNzRlOTJhMjkxYzczMiJ9",
+      "price_eur": 4191.4,
+      "price_text": "€4,191.40"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/MQHE?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkZDRhZjUwZWNmNWMyOTQxMjE4NzkyMWMwOTY3Y2ZhNSJ9",
+      "price_eur": 4191.4,
+      "price_text": "€4,191.40"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/9KBS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJjM2Y1M2ZiMmVjOThmZWMzNzFlOGRkZjJiOWVmODQ3MiJ9",
+      "price_eur": 4324.81,
+      "price_text": "€4,324.81"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/W6YV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI5YWQzOGFjYzNlYzQyMmI4M2QzZjYxNWEzOTllMDU1ZCJ9",
+      "price_eur": 4324.81,
+      "price_text": "€4,324.81"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HXEV?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJlNzFmMjRiYjExZWIyZjYwMjBlZDM3YTA4Y2Q4N2VjNSJ9",
+      "price_eur": 4504.83,
+      "price_text": "€4,504.83"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/JNVG?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0NGEzMjRmNzY3MGIyYzA3MDY5NWRhZjUzNDZiZjNhNiJ9",
+      "price_eur": 4504.83,
+      "price_text": "€4,504.83"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/HHCL?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI0Yzg5NTc4OTk5OGEwNGNhZGZhZjE2Y2U2OWI1NDBmYiJ9",
+      "price_eur": 4660.22,
+      "price_text": "€4,660.22"
+    },
+    {
+      "name": "Tesla Model Y",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/RYNS?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJkZjhiNjU2Zjk5OGI3ZmY3NjIzM2MyMDYwYzUxMWFkMyJ9",
+      "price_eur": 4858.59,
+      "price_text": "€4,858.59"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/5CRP?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiI3MzVlOTFkY2FlYzUwYTEyNWJjOWVkMTczZTkxNzIxZCJ9",
+      "price_eur": 7807.53,
+      "price_text": "€7,807.53"
+    },
+    {
+      "name": "BMW X6",
+      "link": "https://www.discovercars.com/en/book/74abfbd2-75e7-44a5-b182-e334e457e7c0/e5e4c331-a34b-4338-9dcb-9e6743ba4432/8FBX?sq=eyJQaWNrdXBMb2NhdGlvbklkIjo1Nzk1LCJEcm9wT2ZmTG9jYXRpb25JZCI6NTc5NSwiUGlja3VwRGF0ZVRpbWUiOiIyMDI1LTA1LTI5VDExOjAwOjAwIiwiRHJvcE9mZkRhdGVUaW1lIjoiMjAyNS0wNi0wNlQxMTowMDowMCIsIlJlc2lkZW5jZUNvdW50cnkiOiJJVCIsIkRyaXZlckFnZSI6MzUsIkhhc2giOiJhZWJkODI5YTQ1OGJkYzk1YzM0OTE5N2QyNjk5ZmJhOCJ9",
+      "price_eur": 8140.0,
+      "price_text": "€8,140.00"
+    }
+  ]
+}

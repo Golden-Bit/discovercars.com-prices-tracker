@@ -1,0 +1,114 @@
+  [{
+    "sipp_code": "MBMM",
+    "group": "A",
+    "example_vehicle": "FIAT 500",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "MDAR",
+    "group": "A_1",
+    "example_vehicle": "TOYOTA AYGO",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "ECMR",
+    "group": "B",
+    "example_vehicle": "FIAT PANDA",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "ECAR",
+    "group": "C",
+    "example_vehicle": "FORD FIESTA",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "CDMR",
+    "group": "D",
+    "example_vehicle": "FIAT 500X",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "CDAR",
+    "group": "E",
+    "example_vehicle": "VW TAIGO",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "ILMR",
+    "group": "F",
+    "example_vehicle": "VW GOLF",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "ILAR",
+    "group": "G",
+    "example_vehicle": "CITROEN C4",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "IFMR",
+    "group": "H",
+    "example_vehicle": "JEEP RENEGADE",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "IFAR",
+    "group": "I",
+    "example_vehicle": "PEUGEOT 3008",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "FFMR",
+    "group": "J",
+    "example_vehicle": "NISSAN QASHQAI",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "FFAR",
+    "group": "K",
+    "example_vehicle": "ALFA TONALE",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "JDMR",
+    "group": "L",
+    "example_vehicle": "FORD FOCUS SW",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "JDAR",
+    "group": "M",
+    "example_vehicle": "SEAT CUPRA FORMENTOR",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "SVAR",
+    "group": "O",
+    "example_vehicle": "RENAULT ESPACE",
+    "transmission": "AUTOMATIC",
+    "seating": "7 SEATS",
+    "note": "OR SIMILAR"
+  },
+  {
+    "sipp_code": "FVMR",
+    "group": "P",
+    "example_vehicle": "FORD TOURNEO",
+    "transmission": "MANUAL",
+    "seating": "9 SEATS",
+    "note": "OR SIMILAR"
+  }]

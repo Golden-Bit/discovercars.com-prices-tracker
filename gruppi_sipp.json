@@ -1,0 +1,238 @@
+[
+  {
+    "sipp_code": "MBMM",
+    "group": "A",
+    "example_vehicle": "FIAT 500",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Fiat 500",
+      "Kia Picanto",
+      "Peugeot 107",
+      "Smart Forfour",
+      "Volkswagen Up"
+    ]
+  },
+  {
+    "sipp_code": "MDAR",
+    "group": "A_1",
+    "example_vehicle": "TOYOTA AYGO",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Toyota Aygo"
+    ]
+  },
+  {
+    "sipp_code": "ECMR",
+    "group": "B",
+    "example_vehicle": "FIAT PANDA",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Audi A1",
+      "Citroen C3",
+      "Fiat Panda",
+      "Kia Rio",
+      "Lancia Ypsilon",
+      "Opel Corsa",
+      "Peugeot 208",
+      "Renault Clio",
+      "Seat Ibiza",
+      "Skoda Fabia",
+      "Volkswagen Polo"
+    ]
+  },
+  {
+    "sipp_code": "ECAR",
+    "group": "C",
+    "example_vehicle": "FORD FIESTA",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Ford Fiesta"
+    ]
+  },
+  {
+    "sipp_code": "CDMR",
+    "group": "D",
+    "example_vehicle": "FIAT 500X",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Citroen C3 Aircross",
+      "Citroën C3 Aircross",
+      "Fiat 500X",
+      "Ford Puma",
+      "Opel Crossland",
+      "Opel Mokka",
+      "Seat Arona",
+      "Volkswagen T-Cross"
+    ]
+  },
+  {
+    "sipp_code": "CDAR",
+    "group": "E",
+    "example_vehicle": "VW TAIGO",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Volkswagen T-Roc"
+    ]
+  },
+  {
+    "sipp_code": "ILMR",
+    "group": "F",
+    "example_vehicle": "VW GOLF",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Audi A3",
+      "Audi A5",
+      "BMW 1 Series",
+      "BMW 2 Series",
+      "BMW 3 series",
+      "Fiat Tipo",
+      "Ford Focus",
+      "Opel Astra",
+      "Seat Leon",
+      "Volkswagen Golf"
+    ]
+  },
+  {
+    "sipp_code": "ILAR",
+    "group": "G",
+    "example_vehicle": "CITROEN C4",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Citroen C5"
+    ]
+  },
+  {
+    "sipp_code": "IFMR",
+    "group": "H",
+    "example_vehicle": "JEEP RENEGADE",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Chery Tiggo",
+      "Chery Tiggo 7",
+      "Jeep Avenger",
+      "Jeep Renegade",
+      "MG HS",
+      "Peugeot 2008",
+      "Renault Captur"
+    ]
+  },
+  {
+    "sipp_code": "IFAR",
+    "group": "I",
+    "example_vehicle": "PEUGEOT 3008",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Jeep Compass",
+      "Mitsubishi ASX",
+      "Peugeot 3008",
+      "Renault Kadjar",
+      "Toyota C-HR",
+      "Toyota Corolla Cross",
+      "Volkswagen T-Roc"
+    ]
+  },
+  {
+    "sipp_code": "FFMR",
+    "group": "J",
+    "example_vehicle": "NISSAN QASHQAI",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Nissan Qashqai"
+    ]
+  },
+  {
+    "sipp_code": "FFAR",
+    "group": "K",
+    "example_vehicle": "ALFA TONALE",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Alfa Romeo Stelvio",
+      "Alfa Romeo Tonale",
+      "Audi Q3",
+      "BMW X1",
+      "BMW X3",
+      "BMW X5",
+      "BMW X6",
+      "Citroen DS7",
+      "Jaguar F-Pace",
+      "Tesla Model Y"
+    ]
+  },
+  {
+    "sipp_code": "JDMR",
+    "group": "L",
+    "example_vehicle": "FORD FOCUS SW",
+    "transmission": "MANUAL",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Audi A4 STW",
+      "BMW 3 Series STW",
+      "BMW 3 Series Touring",
+      "Fiat Tipo STW",
+      "Ford Focus STW",
+      "Opel Astra STW",
+      "Seat Leon STW",
+      "Skoda Octavia STW",
+      "Toyota Corolla STW"
+    ]
+  },
+  {
+    "sipp_code": "JDAR",
+    "group": "M",
+    "example_vehicle": "SEAT CUPRA FORMENTOR",
+    "transmission": "AUTOMATIC",
+    "note": "OR SIMILAR",
+    "vehicles": []
+  },
+  {
+    "sipp_code": "SVAR",
+    "group": "O",
+    "example_vehicle": "RENAULT ESPACE",
+    "transmission": "AUTOMATIC",
+    "seating": "7 SEATS",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Dacia Jogger",
+      "Fiat Talento",
+      "Ford Tourneo Custom",
+      "Ford Transit",
+      "Hyundai Staria",
+      "Mercedes-Benz Vito",
+      "Nissan Primastar",
+      "Peugeot 5008 5+2",
+      "Peugeot Traveller",
+      "Renault Trafic",
+      "Toyota Proace Verso"
+    ]
+  },
+  {
+    "sipp_code": "FVMR",
+    "group": "P",
+    "example_vehicle": "FORD TOURNEO",
+    "transmission": "MANUAL",
+    "seating": "9 SEATS",
+    "note": "OR SIMILAR",
+    "vehicles": [
+      "Fiat Talento",
+      "Ford Tourneo Custom",
+      "Ford Transit",
+      "Hyundai Staria",
+      "Mercedes-Benz Vito",
+      "Nissan Primastar",
+      "Renault Trafic",
+      "Toyota Proace Verso"
+    ]
+  }
+]
