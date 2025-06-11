@@ -26,27 +26,49 @@ import html
 import json
 import re
 import sys
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin
 
 from playwright.sync_api import TimeoutError as TE, sync_playwright
+
+from step_1 import _slugify
+
+
+SETTINGS = json.load(open("global_params.json", "r"))
+
 
 # ----------------------------------------------------------------------------
 # CONFIGURAZIONE -------------------------------------------------------------
 # ----------------------------------------------------------------------------
 
 # --- imposta la directory di lavoro (cartella con i JSON) ------------------
-WORK_DIR = Path("data/naples_airport_nap_2025-05-29").resolve()
-if len(sys.argv) > 1:                               # opzionale: override CLI
-    WORK_DIR = Path(sys.argv[1]).expanduser().resolve()
-WORK_DIR.mkdir(parents=True, exist_ok=True)         # se mancasse
+SETTINGS = json.load(open("global_params.json", "r"))
+location  = SETTINGS["location"]
+pick_date = SETTINGS["pick_date"]
+drop_date = SETTINGS["drop_date"]
 
-SRC_FILE = WORK_DIR / "cars.json"          # output del primo script
-DEST_FILE = WORK_DIR / "cars_details.json"  # file arricchito
+# ――― Calcolo del periodo in giorni ―――
+fmt = "%Y-%m-%d"
+dt_pick = datetime.strptime(pick_date, fmt)
+dt_drop = datetime.strptime(drop_date, fmt)
+period_days = (dt_drop - dt_pick).days
+
+slug_loc = _slugify(location)
+WORK_DIR = Path("data") / slug_loc / str(period_days) / pick_date
+WORK_DIR = WORK_DIR.resolve()
+
+# Override da CLI (opzionale)
+if len(sys.argv) > 1:
+    WORK_DIR = Path(sys.argv[1]).expanduser().resolve()
+WORK_DIR.mkdir(parents=True, exist_ok=True)
+
+SRC_FILE  = WORK_DIR / "cars.json"
+DEST_FILE = WORK_DIR / "cars_details.json"
 
 # range di record da processare (inclusivo / esclusivo)
 START_INDEX = 0
-END_INDEX = 10
+END_INDEX = 999
 
 # ----------------------------------------------------------------------------
 # helper stringa → float -----------------------------------------------------

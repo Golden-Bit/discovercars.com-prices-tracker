@@ -23,10 +23,13 @@ from textwrap import indent
 import json
 import sys
 
+SETTINGS = json.load(open("global_params.json", "r"))
+
 # ───────────────────────────────────────────────────────────────────────────
 # PERCORSI
 # ───────────────────────────────────────────────────────────────────────────
-WORK_DIR = Path("data/naples_airport_nap_2025-05-29").resolve()
+WORK_DIR = Path(f"data/{_slugify(SETTINGS['location'])}_{SETTINGS['pick_date']}").resolve()
+
 if len(sys.argv) > 1:          # override facoltativo
     WORK_DIR = Path(sys.argv[1]).expanduser().resolve()
 

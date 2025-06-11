@@ -1,114 +1,233 @@
-  [{
+[
+  {
     "sipp_code": "MBMM",
     "group": "A",
-    "example_vehicle": "FIAT 500",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 4,
+    "vehicles": [
+      "FIAT 500 MANUAL",
+      "PEUGEOT 108",
+      "TOYOTA AYGO X",
+      "HIUNDAY I10",
+      "Renault Twingo",
+      "VW UP"
+    ]
   },
   {
     "sipp_code": "MDAR",
     "group": "A_1",
-    "example_vehicle": "TOYOTA AYGO",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 4,
+    "vehicles": [
+      "TOYOTA AYGO X",
+      "FIAT 500",
+      "TOYOTA AYGO X",
+      "HIUNDAY I10",
+      "Renault Twingo",
+      "VW UP"
+    ]
   },
   {
     "sipp_code": "ECMR",
     "group": "B",
-    "example_vehicle": "FIAT PANDA",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "FIAT PANDA",
+      "FORD FIESTA",
+      "RENAULT CLIO",
+      "VW POLO",
+      "CITROEN C3",
+      "HIUNDAY I20",
+      "OPEL CORSA",
+      "LANCIA YPSILON"
+    ]
   },
   {
     "sipp_code": "ECAR",
     "group": "C",
-    "example_vehicle": "FORD FIESTA",
-    "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "transmission": "AUTOMATIC",
+    "seats": 5,
+    "vehicles": [
+      "FIAT PANDA",
+      "FORD FIESTA",
+      "RENAULT CLIO",
+      "VW POLO",
+      "CITROEN C3",
+      "HIUNDAY I20",
+      "OPEL CORSA",
+      "LANCIA YPSILON"
+    ]
   },
   {
     "sipp_code": "CDMR",
     "group": "D",
-    "example_vehicle": "FIAT 500X",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "FIAT 500X",
+      "VW TAIGO",
+      "PEUGEOT 2008",
+      "RENAULT CAPTUR",
+      "FORD PUMA",
+      "SKODA FABIA",
+      "CITROEN C3 AIRCROSS",
+      "JEEP AVANGER",
+      "VW T-CROSS"
+    ]
   },
   {
     "sipp_code": "CDAR",
     "group": "E",
-    "example_vehicle": "VW TAIGO",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "FIAT 500X",
+      "VW TAIGO",
+      "PEUGEOT 2008",
+      "RENAULT CAPTUR",
+      "FORD PUMA",
+      "SKODA FABIA",
+      "CITROEN C3 AIRCROSS",
+      "JEEP AVANGER",
+      "VW T-CROSS"
+    ]
   },
   {
     "sipp_code": "ILMR",
     "group": "F",
-    "example_vehicle": "VW GOLF",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "VW GOLF",
+      "CITROEN C4",
+      "AUDI A3",
+      "OPEL ASTRA",
+      "SKODA KAMIQ"
+    ]
   },
   {
     "sipp_code": "ILAR",
     "group": "G",
-    "example_vehicle": "CITROEN C4",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "VW GOLF",
+      "CITROEN C4",
+      "AUDI A3",
+      "OPEL ASTRA",
+      "SKODA KAMIQ"
+    ]
   },
   {
     "sipp_code": "IFMR",
     "group": "H",
-    "example_vehicle": "JEEP RENEGADE",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "JEEP RENEGADE",
+      "PEUGEOT 3008",
+      "MG ZX",
+      "OPEL MOKKA",
+      "VW T-ROC"
+    ]
   },
   {
     "sipp_code": "IFAR",
     "group": "I",
-    "example_vehicle": "PEUGEOT 3008",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "JEEP RENEGADE",
+      "PEUGEOT 3008",
+      "MG ZX",
+      "OPEL MOKKA",
+      "VW T-ROC"
+    ]
   },
   {
     "sipp_code": "FFMR",
     "group": "J",
-    "example_vehicle": "NISSAN QASHQAI",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "NISSAN QASHQAI",
+      "ALFA TONALE",
+      "JEEP COMPASS",
+      "FORD KUGA",
+      "KIA SPORTAGE",
+      "PEUGEOT 5008"
+    ]
   },
   {
     "sipp_code": "FFAR",
     "group": "K",
-    "example_vehicle": "ALFA TONALE",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "NISSAN QASHQAI",
+      "ALFA TONALE",
+      "JEEP COMPASS",
+      "FORD KUGA",
+      "KIA SPORTAGE",
+      "PEUGEOT 5008"
+    ]
   },
   {
     "sipp_code": "JDMR",
     "group": "L",
-    "example_vehicle": "FORD FOCUS SW",
     "transmission": "MANUAL",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "FORD FOCUS SW",
+      "SEAT CUPRA FORMENTOR",
+      "SKODA OCTAVIA SW",
+      "FIAT TIPO SW",
+      "PEUGEOT 508 SW",
+      "OPEL ASTRA SW"
+    ]
   },
   {
     "sipp_code": "JDAR",
     "group": "M",
-    "example_vehicle": "SEAT CUPRA FORMENTOR",
     "transmission": "AUTOMATIC",
-    "note": "OR SIMILAR"
+    "seats": 5,
+    "vehicles": [
+      "FORD FOCUS SW",
+      "SEAT CUPRA FORMENTOR",
+      "SKODA OCTAVIA SW",
+      "FIAT TIPO SW",
+      "PEUGEOT 508 SW",
+      "OPEL ASTRA SW"
+    ]
   },
   {
     "sipp_code": "SVAR",
     "group": "O",
-    "example_vehicle": "RENAULT ESPACE",
     "transmission": "AUTOMATIC",
-    "seating": "7 SEATS",
-    "note": "OR SIMILAR"
+    "seats": 7,
+    "vehicles": [
+      "RENAULT ESPACE",
+      "Toyota Proace",
+      "MERCEDES VITO",
+      "FORD TOURNEO",
+      "CITROEN C4 PICASSO",
+      "PEUGEOT 5008"
+    ]
   },
   {
     "sipp_code": "FVMR",
     "group": "P",
-    "example_vehicle": "FORD TOURNEO",
     "transmission": "MANUAL",
-    "seating": "9 SEATS",
-    "note": "OR SIMILAR"
-  }]
+    "seats": 9,
+    "vehicles": [
+      "FORD TOURNEO",
+      "RENAULT TRAFIC",
+      "OPEL VIVARO",
+      "FIAT DUCATO",
+      "FIAT TALENTO",
+      "Volkswagen Caravelle",
+      "MERCEDES VITO"
+    ]
+  }
+]

@@ -1,11 +1,3 @@
-# 👈 aggiungi queste righe il più in alto possibile,
-#     PRIMA di importare playwright o streamlit!
-#import sys, asyncio
-
-#if sys.platform.startswith("win"):
-#    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-
-
 import json
 import re
 import time
@@ -19,7 +11,6 @@ SETTINGS = json.load(open("global_params.json", "r"))
 
 BASE_URL = "https://www.discovercars.com"
 
-
 def _slugify(text: str) -> str:
     import unicodedata
     norm = unicodedata.normalize("NFKD", text)
@@ -27,10 +18,8 @@ def _slugify(text: str) -> str:
     slug = re.sub(r"[^\w]+", "_", ascii_txt).strip("_").lower()
     return slug
 
-
 def _ui_date(date_str: str) -> str:
     return datetime.strptime(date_str, "%Y-%m-%d").strftime("%a, %d %b, %Y")
-
 
 def _inject_dates(page, pick_date: str, drop_date: str):
     page.evaluate(
@@ -53,7 +42,6 @@ def _inject_dates(page, pick_date: str, drop_date: str):
         },
     )
 
-
 def _sort_by_price(page):
     try:
         page.locator("div.dropdown.inline-block > a.dropdown-toggle").click()
@@ -64,14 +52,43 @@ def _sort_by_price(page):
     except PlaywrightTimeoutError:
         print("[WARN] Ordinamento per prezzo non applicato.")
 
-
 def _scrape_results(page):
+    """
+    Seleziona il layout corretto:
+    - Se esistono .SearchCar-CarNameLink → nuovo layout (searchVersion=2)
+    - Altrimenti fallback al layout classico (searchVersion=1)
+    Estrae nome, link e prezzo.
+    """
+    cars = []
+
+    # Nuovo layout (lazy-loaded): aspetta almeno un wrapper
+    if page.locator(".SearchCar-Wrapper").count() > 0:
+        wrappers = page.locator(".SearchCar-Wrapper").all()
+        for wrapper in wrappers:
+            name_elem = wrapper.locator(".SearchCar-CarNameLink").first
+            name = name_elem.inner_text().strip() if name_elem.count() else ""
+            href = name_elem.get_attribute("href") if name_elem.count() else None
+            price_elem = wrapper.locator(".SearchCar-Price").first
+            price_text = price_elem.inner_text().strip() if price_elem.count() else ""
+            try:
+                price_eur = float(price_text.replace("€", "").replace(",", "").strip())
+            except ValueError:
+                price_eur = None
+            if href:
+                cars.append({
+                    "name": name,
+                    "link": urljoin(BASE_URL, href),
+                    "price_eur": price_eur,
+                    "price_text": price_text
+                })
+        return cars
+
+    # Fallback layout classico
     anchors = page.locator(".car-box .car-name a")
     names = anchors.all_inner_texts()
     anchor_elements = anchors.all()
     hrefs = [anchor.get_attribute("href") for anchor in anchor_elements]
     prices_text = page.locator(".car-box .price-item-price-main").all_inner_texts()
-    cars = []
     for name, href, ptxt in zip(names, hrefs, prices_text):
         if not href:
             continue
@@ -79,18 +96,15 @@ def _scrape_results(page):
             price_eur = float(ptxt.replace("€", "").replace(",", "").strip())
         except ValueError:
             price_eur = None
-        cars.append(
-            {
-                "name": name.strip(),
-                "link": urljoin(BASE_URL, href),
-                "price_eur": price_eur,
-                "price_text": ptxt.strip(),
-            }
-        )
+        cars.append({
+            "name": name.strip(),
+            "link": urljoin(BASE_URL, href),
+            "price_eur": price_eur,
+            "price_text": ptxt.strip()
+        })
     return cars
 
-
-def step_1(
+def run(
     *,
     location: str,
     pick_date: str,
@@ -100,13 +114,11 @@ def step_1(
     slow_mo,
     output_file: str,
 ):
-    # ――― Calcolo del periodo in giorni ―――
     fmt = "%Y-%m-%d"
     dt_pick = datetime.strptime(pick_date, fmt)
     dt_drop = datetime.strptime(drop_date, fmt)
     period_days = (dt_drop - dt_pick).days
 
-    # ――― Nuova struttura cartelle:
     slug_loc = _slugify(location)
     work_dir = Path("data") / slug_loc / str(period_days) / pick_date
     work_dir = work_dir.resolve()
@@ -125,13 +137,10 @@ def step_1(
                 browser = pw.chromium.launch(headless=headless, slow_mo=slow_mo)
                 page = browser.new_page()
                 page.goto(BASE_URL, timeout=45_000)
-
-                # Provo a chiudere il banner dei cookie
                 try:
                     page.click("button:has-text('Accept')", timeout=6_000)
                 except PlaywrightTimeoutError:
                     pass
-
                 page.fill("#pick-up-location", location)
                 try:
                     page.wait_for_selector(".tt-dataset-locations .tt-suggestion", timeout=8_000)
@@ -143,48 +152,52 @@ def step_1(
                 page.wait_for_load_state("networkidle")
                 time.sleep(2)
 
-                # ――― PRIMO: Controllo e modifica del parametro searchVersion ―――
+                # Controllo e modifica del parametro searchVersion
                 current_url = page.url
-                if "searchVersion=1" in current_url or "searchVersion=2" in current_url:
-                    new_url = current_url.replace("searchVersion=1", "searchVersion=0")
-                    new_url = new_url.replace("searchVersion=2", "searchVersion=0")
-                    print(f"[INFO] Rilevato searchVersion!=0, ricarico con searchVersion=0: {new_url}")
-                    page.evaluate(f"window.location.href = '{new_url}';")
+                if "searchVersion=1" in current_url or "searchVersion=0" in current_url:
+                    new_url = current_url.replace("searchVersion=0", "searchVersion=2")
+                    new_url = new_url.replace("searchVersion=1", "searchVersion=2")
+                    print(f"[INFO] Rilevato searchVersion!=2, ricarico con searchVersion=2: {new_url}")
+                    page.goto(new_url, timeout=45_000)
                     page.wait_for_load_state("networkidle")
+                    # Aspetto esplicitamente che il nuovo layout abbia almeno una card
+                    try:
+                        page.wait_for_selector(".SearchCar-Wrapper", timeout=15000)
+                    except PlaywrightTimeoutError:
+                        print("[WARN] Timeout nell'attesa delle card SearchCar-Wrapper")
                     time.sleep(2)
-
-                # ――― POI: Controllo “nessun risultato” e reload se compare ―――
-                no_result_selector = "#load-data-no-result"
-                for nores_attempt in range(5):
-                    if page.locator(no_result_selector).is_visible():
-                        print(
-                            f"[WARN] Nessun risultato trovato (tentativo reload {nores_attempt+1}/5). "
-                            "Attendo 5 secondi e ricarico."
-                        )
-                        time.sleep(5)
-                        page.reload()
-                        page.wait_for_load_state("networkidle")
-                        time.sleep(2)
-                    else:
-                        break
-                else:
-                    # Dopo 5 reload ancora no result: esco da tentativo corrente
-                    print("[ERROR] Dopo 5 reload continui 'nessun risultato'. Interrompo questo tentativo.")
-                    browser.close()
-                    continue  # passa al prossimo attempt esterno
 
                 _sort_by_price(page)
                 time.sleep(2)
+
+                # Se siamo nella versione 2, facciamo scrolling per caricare tutti i risultati
+                if page.locator(".SearchCar-Wrapper").count() > 0:
+                    previous_count = 0
+                    while True:
+                        # Scroll fino in fondo
+                        page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+                        time.sleep(1)
+                        # Attendo un po' che si carichino eventuali nuovi elementi
+                        page.wait_for_load_state("networkidle")
+                        time.sleep(1)
+                        current_count = page.locator(".SearchCar-Wrapper").count()
+                        if current_count == previous_count:
+                            break
+                        previous_count = current_count
+
                 cars = _scrape_results(page)
                 if cars:
                     print(f"[INFO] Trovati {len(cars)} veicoli.")
-                    browser.close()
                     break
                 else:
-                    print("[WARN] Nessun veicolo trovato nonostante risultati attesi, riprovo...")
-                    browser.close()
+                    print("[WARN] Nessun veicolo trovato, riprovo...")
         except Exception as e:
             print(f"[ERROR] Errore durante il tentativo {attempt}: {e}")
+        finally:
+            try:
+                browser.close()
+            except:
+                pass
         time.sleep(2)
 
     if cars:
@@ -192,8 +205,7 @@ def step_1(
             json.dump({"total_results": len(cars), "cars": cars}, f, ensure_ascii=False, indent=2)
         print(f"\n[✓] Veicoli trovati: {len(cars)} — salvati in {out_path}\n")
     else:
-        print(f"[ERROR] Nessun veicolo trovato dopo {max_attempts} tentativi.")
-
+        print("[ERROR] Nessun veicolo trovato dopo 5 tentativi.")
 
 if __name__ == "__main__":
-    step_1(**SETTINGS)
+    run(**SETTINGS)

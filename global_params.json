@@ -1,0 +1,9 @@
+{
+    "location": "Naples Airport (NAP)",
+    "pick_date": "2025-06-07",
+    "drop_date": "2025-06-10",
+    "car_group": "Small Cars",
+    "headless": false,
+    "slow_mo": null,
+    "output_file": "cars.json"
+}

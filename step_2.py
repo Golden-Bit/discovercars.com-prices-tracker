@@ -15,45 +15,53 @@ USO
 
 • Il programma crea/aggiorna `car_names.json` nella cartella indicata.
 """
-
+from datetime import datetime
 from pathlib import Path
 import json
 import sys
 
-# ---------------------------------------------------------------------------
-# CARTELLA DI LAVORO ---------------------------------------------------------
-# ---------------------------------------------------------------------------
-
-# Default (puoi sovrascrivere via CLI)
-WORK_DIR = Path("data/naples_airport_nap_2025-05-29").resolve()
-if len(sys.argv) > 1:                           # override opzionale
-    WORK_DIR = Path(sys.argv[1]).expanduser().resolve()
-
-# Percorsi file
-SRC_FILE = WORK_DIR / "cars.json"
-DEST_FILE = WORK_DIR / "car_names.json"
+from step_1 import _slugify
 
 # ---------------------------------------------------------------------------
 # MAIN -----------------------------------------------------------------------
 # ---------------------------------------------------------------------------
 
+def step_2(settings: dict):
+    location  = settings["location"]
+    pick_date = settings["pick_date"]
+    drop_date = settings["drop_date"]
 
-def main():
-    if not SRC_FILE.exists():
-        sys.exit(f"Errore: '{SRC_FILE}' non trovato. Controlla WORK_DIR.")
+    # ――― Calcolo del periodo in giorni ―――
+    fmt = "%Y-%m-%d"
+    dt_pick = datetime.strptime(pick_date, fmt)
+    dt_drop = datetime.strptime(drop_date, fmt)
+    period_days = (dt_drop - dt_pick).days
+
+    # ――― Nuova struttura cartelle:
+    # data/<slugify(location)>/<period_days>/<pick_date>/
+    slug_loc = _slugify(location)
+    work_dir = Path("data") / slug_loc / str(period_days) / pick_date
+    work_dir = work_dir.resolve()
+
+    src_file  = work_dir / "cars.json"
+    dest_file = work_dir / "car_names.json"
+
+    if not src_file.exists():
+        sys.exit(f"Errore: '{src_file}' non trovato. Controlla WORK_DIR.")
 
     # ――― Carica il JSON sorgente ―――
-    data = json.loads(SRC_FILE.read_text(encoding="utf-8"))
+    data = json.loads(src_file.read_text(encoding="utf-8"))
 
     # ――― Estrae nomi unici (case-sensitive) ―――
     names = sorted({car.get("name", "").strip() for car in data.get("cars", []) if car.get("name")})
 
     # ――― Scrive il nuovo file ―――
-    WORK_DIR.mkdir(parents=True, exist_ok=True)
-    DEST_FILE.write_text(json.dumps(names, ensure_ascii=False, indent=2), encoding="utf-8")
+    work_dir.mkdir(parents=True, exist_ok=True)
+    dest_file.write_text(json.dumps(names, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"✓ Salvati {len(names)} nomi in {DEST_FILE}")
+    print(f"✓ Salvati {len(names)} nomi in {dest_file}")
 
 
 if __name__ == "__main__":
-    main()
+    SETTINGS = json.load(open("global_params.json", "r"))
+    step_2(SETTINGS)

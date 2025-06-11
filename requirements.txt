@@ -1,0 +1,12 @@
+playwright
+streamlit
+pandas
+numpy
+openpyxl
+openai
+langchain
+langchain-community
+langchain-openai
+tiktoken
+python-slugify
+rich
