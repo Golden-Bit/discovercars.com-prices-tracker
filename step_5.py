@@ -30,6 +30,12 @@ from playwright.sync_api import TimeoutError as TE, sync_playwright
 # HELPERS PER IL CALCOLO DI WORK_DIR
 # ────────────────────────────────────────────────────────────────────────────
 
+# Lista case-sensitive degli slug/nome fornitore così come appaiono in cars.json
+BAD_SUPPLIERS = {
+    "rental premium",
+    "acarent"
+}
+
 def _slugify(text: str) -> str:
     import unicodedata
     norm = unicodedata.normalize("NFKD", text)
@@ -184,6 +190,9 @@ def step_5(settings: dict):
     # Chiave: nome modello esatto (case-sensitive); valore: dict { "link", "price_eur", "price_text" }
     cars_by_model: dict[str, dict] = {}
     for entry in cars:
+        supplier_slug = entry.get("supplier")
+        if supplier_slug.lower() in BAD_SUPPLIERS:
+            continue  # salta il fornitore indesiderato
         model_name = entry["name"].strip()
         price = entry.get("price_eur")
         if model_name in cars_by_model:
@@ -216,7 +225,7 @@ def step_5(settings: dict):
             selected_details: dict | None = None
 
             # Se la lista 'vehicles' esiste e contiene elementi
-            vehs = grp.get("vehicles", [])
+            """vehs = grp.get("vehicles", [])
             if vehs:
                 # Trovo punteggio massimo
                 max_score = max(v["score"] for v in vehs)
@@ -225,6 +234,25 @@ def step_5(settings: dict):
                 best_model = candidates[0]["model"]  # nome modello
 
                 # Cerco il link e il prezzo minimo in cars_by_model
+                car_info = cars_by_model.get(best_model)"""
+            # Se la lista 'vehicles' esiste e contiene elementi
+            vehs = grp.get("vehicles", [])
+            SCORE_THRESHOLD = 0.8
+            if vehs:
+                # 1) Filtra per punteggio ≥ soglia
+                eligible = [v for v in vehs if v.get("score", 0) >= SCORE_THRESHOLD]
+
+                # 2) Se nessuna vettura supera la soglia ricadi sul vecchio criterio (max score)
+                if not eligible:
+                    max_score = max(v["score"] for v in vehs)
+                    eligible = [v for v in vehs if v["score"] == max_score]
+
+                # 3) Tra le vetture rimaste scegli quella con prezzo più basso
+                def _price_of(model: str) -> float:
+                    """Ritorna il prezzo minimo di quel modello in cars_by_model (∞ se assente)."""
+                    return cars_by_model.get(model, {}).get("price_eur", float("inf"))
+
+                best_model = min(eligible, key=lambda v: _price_of(v["model"]))["model"]
                 car_info = cars_by_model.get(best_model)
                 if car_info:
                     link = car_info["link"]
@@ -233,6 +261,14 @@ def step_5(settings: dict):
                         page.goto(link, timeout=45_000)
                         page.wait_for_load_state("networkidle")
                         details = parse_car_page(page)
+
+                        # ───────── Filtro di sicurezza sui fornitori ─────────
+                        if details.get("supplier_name") in BAD_SUPPLIERS:
+                            print(f"⨯ Ignorato '{details['supplier_name']}' perché in blacklist")
+                            selected_details = None  # forza rifiuto → si passerà all'output con None
+                            continue  # salta al prossimo gruppo
+                        # ─────────────────────────────────────────────────────
+
                         # Unisco i dati base di cars.json con quelli di dettaglio
                         selected_details = {
                             "model": best_model,

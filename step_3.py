@@ -35,7 +35,7 @@ def _slugify(text: str) -> str:
 # Config costanti
 # ────────────────────────────────────────────────────────────────────────────
 GRUPPI_BASE_FILE = Path("gruppi_sipp_base.json")
-OPENAI_API_KEY = "......"
+OPENAI_API_KEY = "..."
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 MODEL_NAME  = "gpt-4o"

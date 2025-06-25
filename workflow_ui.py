@@ -22,11 +22,18 @@ from typing import List
 import pandas as pd
 import streamlit as st
 
+from process_output_file import process_extra_periods
+
 # ────────────────────────────────────────────────────────────────────────────
 # Costanti / helper
 # ────────────────────────────────────────────────────────────────────────────
 DEFAULT_OUTDIR = Path("output_data")
 CLI_SCRIPT     = Path(__file__).with_name("workflow.py")  # script CLI
+
+# ------------------------------------------------------------------
+# Impostazioni di salvataggio Excel
+# ------------------------------------------------------------------
+EXCEL_ENGINE = "openpyxl"      # oppure "xlsxwriter" se preferisci
 
 def _slugify(text: str) -> str:
     import unicodedata, re
@@ -34,7 +41,7 @@ def _slugify(text: str) -> str:
     return re.sub(r"[^\w]+", "_", norm.encode("ascii", "ignore").decode()).strip("_").lower()
 
 
-def build_csv_for_location(location: str, pick_date: str, out_dir: Path, periods: list, extra_periods: list):
+def build_csv_for_location(location: str, pick_date: str, out_dir: Path, base_periods: list, extra_periods: list):
     """Aggrega i prezzi in un CSV come prima; invariato rispetto alla versione precedente."""
     slug_loc = _slugify(location)
     base_dir = Path("data") / slug_loc
@@ -75,11 +82,30 @@ def build_csv_for_location(location: str, pick_date: str, out_dir: Path, periods
     df.index.name, df.columns.name = "SIPP_Code", "Period_Days"
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / f"comparison_{slug_loc}_{pick_date}.csv"
-    df.to_csv(out_path, float_format="%.2f", encoding="utf-8")
-    st.success(f"CSV salvato: {out_path}")
+    out_path_1 = out_dir / f"comparison_{slug_loc}_{pick_date}__1.csv"
+    out_path_2 = out_dir / f"comparison_{slug_loc}_{pick_date}__2.csv"
+    df.to_csv(out_path_1, float_format="%.2f", encoding="utf-8")
+    st.success(f"CSV salvato: {out_path_1}")
+
+    # ---- salvataggio anche in Excel ----
+    excel_path_1 = out_path_1.with_suffix(".xlsx")
+    df.to_excel(excel_path_1, float_format="%.2f", engine=EXCEL_ENGINE, index=False)
+    st.success(f"Excel salvato: {excel_path_1}")
 
 
+    df_new = process_extra_periods(
+        csv_path=out_path_1,
+        base_periods=base_periods,
+        extra_periods=extra_periods,
+        output_path=out_path_2
+    )
+
+    st.success(f"CSV salvato: {out_path_2}")
+
+    # ---- Excel per la versione 2 ----
+    excel_path_2 = out_path_2.with_suffix(".xlsx")
+    df_new.to_excel(excel_path_2, float_format="%.2f", engine=EXCEL_ENGINE, index=False)
+    st.success(f"Excel salvato: {excel_path_2}")
 
 def build_csv_for_location__(
     location: str,
@@ -290,7 +316,7 @@ with st.form("params"):
     periods_in = st.text_input("Periodi BASE (giorni) – es: 1,3,7", "1,5,14")
     extra_in = st.text_input("Periodi EXTRA (facolt.) – es: 2,4 (lascia vuoto per calcolo automatico)", "2,10,20")
 
-    locations_in= st.text_area("Località (una per riga)", "Naples Airport (NAP)")
+    locations_in= st.text_area("Località (una per riga)", "Naples Airport (NAP)\nBari Airport (BRI)\nRome Fiumicino Airport (FCO)\nBrindisi Airport (BDS)\nMilan Airport Malpensa (MXP)")
     out_dir_in  = st.text_input("Cartella output CSV", str(DEFAULT_OUTDIR))
     run_btn     = st.form_submit_button("Esegui workflow")
 

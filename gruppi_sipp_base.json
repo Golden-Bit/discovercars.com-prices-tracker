@@ -5,11 +5,16 @@
     "transmission": "MANUAL",
     "seats": 4,
     "vehicles": [
-      "FIAT 500 MANUAL",
-      "PEUGEOT 108",
+      "FIAT 500",
+      "FIAT 500 CABRIO",
+      "HYUNDAI I10",
+      "KIA PICANTO",
+      "PEUGEOT 107",
+      "RENAULT TWINGO",
+      "SMART FORFOUR",
+      "TOYOTA AYGO",
       "TOYOTA AYGO X",
-      "HIUNDAY I10",
-      "Renault Twingo",
+      "VOLKSWAGEN UP",
       "VW UP"
     ]
   },
@@ -19,11 +24,16 @@
     "transmission": "AUTOMATIC",
     "seats": 4,
     "vehicles": [
-      "TOYOTA AYGO X",
       "FIAT 500",
+      "FIAT 500 CABRIO",
+      "HYUNDAI I10",
+      "KIA PICANTO",
+      "PEUGEOT 107",
+      "RENAULT TWINGO",
+      "SMART FORFOUR",
+      "TOYOTA AYGO",
       "TOYOTA AYGO X",
-      "HIUNDAY I10",
-      "Renault Twingo",
+      "VOLKSWAGEN UP",
       "VW UP"
     ]
   },
@@ -33,14 +43,22 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
+      "AUDI A1",
+      "CITROEN C3",
+      "CITROËN C3",
       "FIAT PANDA",
       "FORD FIESTA",
-      "RENAULT CLIO",
-      "VW POLO",
-      "CITROEN C3",
-      "HIUNDAY I20",
+      "HYUNDAI I20",
+      "KIA RIO",
+      "LANCIA YPSILON",
+      "MG 3",
       "OPEL CORSA",
-      "LANCIA YPSILON"
+      "PEUGEOT 208",
+      "SEAT IBIZA",
+      "SKODA FABIA",
+      "SUZUKI SWIFT",
+      "TOYOTA YARIS",
+      "VOLKSWAGEN POLO"
     ]
   },
   {
@@ -49,14 +67,22 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
+      "AUDI A1",
+      "CITROEN C3",
+      "CITROËN C3",
       "FIAT PANDA",
       "FORD FIESTA",
-      "RENAULT CLIO",
-      "VW POLO",
-      "CITROEN C3",
-      "HIUNDAY I20",
+      "HYUNDAI I20",
+      "KIA RIO",
+      "LANCIA YPSILON",
+      "MG 3",
       "OPEL CORSA",
-      "LANCIA YPSILON"
+      "PEUGEOT 208",
+      "SEAT IBIZA",
+      "SKODA FABIA",
+      "SUZUKI SWIFT",
+      "TOYOTA YARIS",
+      "VOLKSWAGEN POLO"
     ]
   },
   {
@@ -65,15 +91,25 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
+      "ALFA ROMEO JUNIOR",
+      "CITROEN C3 AIRCROSS",
+      "CITROËN C3 AIRCROSS",
+      "FIAT 600",
+      "FIAT  600",
       "FIAT 500X",
-      "VW TAIGO",
+      "FORD PUMA",
+      "JEEP AVENGER",
+      "MITSUBISHI ASX",
+      "NISSAN JUKE",
+      "OPEL CROSSLAND",
+      "OPEL CROSSLAND X",
       "PEUGEOT 2008",
       "RENAULT CAPTUR",
-      "FORD PUMA",
-      "SKODA FABIA",
-      "CITROEN C3 AIRCROSS",
-      "JEEP AVANGER",
-      "VW T-CROSS"
+      "SEAT ARONA",
+      "TOYOTA C-HR",
+      "VOLKSWAGEN TAIGO",
+      "VW TAIGO",
+      "VOLKSWAGEN T-CROSS"
     ]
   },
   {
@@ -82,15 +118,25 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
+      "ALFA ROMEO JUNIOR",
+      "CITROEN C3 AIRCROSS",
+      "CITROËN C3 AIRCROSS",
+      "FIAT 600",
+      "FIAT  600",
       "FIAT 500X",
-      "VW TAIGO",
+      "FORD PUMA",
+      "JEEP AVENGER",
+      "MITSUBISHI ASX",
+      "NISSAN JUKE",
+      "OPEL CROSSLAND",
+      "OPEL CROSSLAND X",
       "PEUGEOT 2008",
       "RENAULT CAPTUR",
-      "FORD PUMA",
-      "SKODA FABIA",
-      "CITROEN C3 AIRCROSS",
-      "JEEP AVANGER",
-      "VW T-CROSS"
+      "SEAT ARONA",
+      "TOYOTA C-HR",
+      "VOLKSWAGEN TAIGO",
+      "VW TAIGO",
+      "VOLKSWAGEN T-CROSS"
     ]
   },
   {
@@ -99,11 +145,29 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
-      "VW GOLF",
-      "CITROEN C4",
+      "ALFA ROMEO GIULIETTA",
       "AUDI A3",
+      "AUDI A5",
+      "BMW 1 SERIES",
+      "BMW 2 SERIES",
+      "BMW 2 SERIES ACTIVE TOURER",
+      "BMW 3 SERIES",
+      "CITROEN C4",
+      "CITROEN C5",
+      "DS 4",
+      "FIAT 500L",
+      "FIAT TIPO",
+      "FIAT TIPO SEDAN",
+      "FORD FOCUS",
+      "MG 350",
+      "MG350",
+      "MERCEDES BENZ E CLASS",
+      "MINI COUNTRYMAN",
       "OPEL ASTRA",
-      "SKODA KAMIQ"
+      "PEUGEOT 308",
+      "SEAT LEON",
+      "VOLKSWAGEN GOLF",
+      "VOLKSWAGEN PASSAT"
     ]
   },
   {
@@ -112,11 +176,29 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
-      "VW GOLF",
-      "CITROEN C4",
+      "ALFA ROMEO GIULIETTA",
       "AUDI A3",
+      "AUDI A5",
+      "BMW 1 SERIES",
+      "BMW 2 SERIES",
+      "BMW 2 SERIES ACTIVE TOURER",
+      "BMW 3 SERIES",
+      "CITROEN C4",
+      "CITROEN C5",
+      "DS 4",
+      "FIAT 500L",
+      "FIAT TIPO",
+      "FIAT TIPO SEDAN",
+      "FORD FOCUS",
+      "MG 350",
+      "MG350",
+      "MERCEDES BENZ E CLASS",
+      "MINI COUNTRYMAN",
       "OPEL ASTRA",
-      "SKODA KAMIQ"
+      "PEUGEOT 308",
+      "SEAT LEON",
+      "VOLKSWAGEN GOLF",
+      "VOLKSWAGEN PASSAT"
     ]
   },
   {
@@ -125,11 +207,14 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
+      "CHERY TIGGO",
+      "CUPRA FORMENTOR",
       "JEEP RENEGADE",
-      "PEUGEOT 3008",
-      "MG ZX",
+      "MG ZS",
       "OPEL MOKKA",
-      "VW T-ROC"
+      "PEUGEOT 3008",
+      "PEUGEOT 3008 HYBRID PLUG-IN",
+      "VOLKSWAGEN T-ROC"
     ]
   },
   {
@@ -138,11 +223,14 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
+      "CHERY TIGGO",
+      "CUPRA FORMENTOR",
       "JEEP RENEGADE",
-      "PEUGEOT 3008",
-      "MG ZX",
+      "MG ZS",
       "OPEL MOKKA",
-      "VW T-ROC"
+      "PEUGEOT 3008",
+      "PEUGEOT 3008 HYBRID PLUG-IN",
+      "VOLKSWAGEN T-ROC"
     ]
   },
   {
@@ -151,12 +239,22 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
-      "NISSAN QASHQAI",
-      "ALFA TONALE",
-      "JEEP COMPASS",
+      "ALFA ROMEO TONALE",
+      "AUDI Q3",
+      "CHERY TIGGO 7",
       "FORD KUGA",
+      "JEEP COMPASS",
       "KIA SPORTAGE",
-      "PEUGEOT 5008"
+      "LEXUS NX",
+      "MG HS",
+      "NISSAN QASHQAI",
+      "OPEL GRANDLAND",
+      "PEUGEOT 5008",
+      "RENAULT KADJAR",
+      "SKODA KAROQ",
+      "TESLA MODEL Y",
+      "TOYOTA COROLLA CROSS",
+      "VOLKSWAGEN TIGUAN"
     ]
   },
   {
@@ -165,12 +263,27 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
-      "NISSAN QASHQAI",
-      "ALFA TONALE",
-      "JEEP COMPASS",
+      "ALFA ROMEO STELVIO",
+      "ALFA ROMEO TONALE",
+      "AUDI Q3",
+      "BMW X6",
+      "CHERY TIGGO 7",
       "FORD KUGA",
+      "JAGUAR F-PACE",
+      "JEEP COMPASS HYBRID PLUG-IN",
       "KIA SPORTAGE",
-      "PEUGEOT 5008"
+      "LEXUS NX",
+      "MERCEDES BENZ GLA",
+      "MERCEDES BENZ GLE",
+      "MG HS",
+      "NISSAN QASHQAI",
+      "OPEL GRANDLAND",
+      "PEUGEOT 5008",
+      "RENAULT KADJAR",
+      "SKODA KAROQ",
+      "TESLA MODEL Y",
+      "TOYOTA COROLLA CROSS",
+      "VOLKSWAGEN TIGUAN"
     ]
   },
   {
@@ -179,12 +292,22 @@
     "transmission": "MANUAL",
     "seats": 5,
     "vehicles": [
-      "FORD FOCUS SW",
-      "SEAT CUPRA FORMENTOR",
-      "SKODA OCTAVIA SW",
-      "FIAT TIPO SW",
+      "AUDI A6 STW",
+      "BMW 3 SERIES STW",
+      "CUPRA LEON STW",
+      "FIAT TIPO STW",
+      "FORD FOCUS STW",
+      "KIA CEED STW",
+      "MERCEDES BENZ CLA STW",
+      "OPEL ASTRA STW",
+      "OPEL ASTRA SPORTS TOURER",
+      "PEUGEOT 308 STW",
+      "PEUGEOT 508 STW",
       "PEUGEOT 508 SW",
-      "OPEL ASTRA SW"
+      "RENAULT MEGANE STW",
+      "SEAT LEON STW",
+      "SKODA OCTAVIA STW",
+      "TOYOTA COROLLA STW"
     ]
   },
   {
@@ -193,12 +316,22 @@
     "transmission": "AUTOMATIC",
     "seats": 5,
     "vehicles": [
-      "FORD FOCUS SW",
-      "SEAT CUPRA FORMENTOR",
-      "SKODA OCTAVIA SW",
-      "FIAT TIPO SW",
+      "AUDI A6 STW",
+      "BMW 3 SERIES STW",
+      "CUPRA LEON STW",
+      "FIAT TIPO STW",
+      "FORD FOCUS STW",
+      "KIA CEED STW",
+      "MERCEDES BENZ CLA STW",
+      "OPEL ASTRA STW",
+      "OPEL ASTRA SPORTS TOURER",
+      "PEUGEOT 308 STW",
+      "PEUGEOT 508 STW",
       "PEUGEOT 508 SW",
-      "OPEL ASTRA SW"
+      "RENAULT MEGANE STW",
+      "SEAT LEON STW",
+      "SKODA OCTAVIA STW",
+      "TOYOTA COROLLA STW"
     ]
   },
   {
@@ -207,12 +340,11 @@
     "transmission": "AUTOMATIC",
     "seats": 7,
     "vehicles": [
-      "RENAULT ESPACE",
-      "Toyota Proace",
-      "MERCEDES VITO",
-      "FORD TOURNEO",
-      "CITROEN C4 PICASSO",
-      "PEUGEOT 5008"
+      "DACIA JOGGER",
+      "FORD TOURNEO COURIER",
+      "PEUGEOT 5008",
+      "PEUGEOT 5008 5+2",
+      "TOYOTA PROACE"
     ]
   },
   {
@@ -221,13 +353,18 @@
     "transmission": "MANUAL",
     "seats": 9,
     "vehicles": [
-      "FORD TOURNEO",
-      "RENAULT TRAFIC",
-      "OPEL VIVARO",
-      "FIAT DUCATO",
+      "FIAT SCUDO",
       "FIAT TALENTO",
-      "Volkswagen Caravelle",
-      "MERCEDES VITO"
+      "FORD TOURNEO",
+      "MERCEDES BENZ VITO",
+      "MERCEDES VITO",
+      "MERCEDES-BENZ VITO",
+      "NISSAN PRIMASTAR",
+      "OPEL VIVARO",
+      "RENAULT TRAFIC",
+      "TOYOTA PROACE",
+      "VOLKSWAGEN CARAVELLE",
+      "VW CARAVELLE"
     ]
   }
 ]

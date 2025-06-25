@@ -66,28 +66,54 @@ def _sort_by_price(page):
 
 
 def _scrape_results(page):
-    anchors = page.locator(".car-box .car-name a")
-    names = anchors.all_inner_texts()
-    anchor_elements = anchors.all()
-    hrefs = [anchor.get_attribute("href") for anchor in anchor_elements]
-    prices_text = page.locator(".car-box .price-item-price-main").all_inner_texts()
+    """
+    Estrae da ciascuna card (.car-box):
+
+        • supplier  – nome del noleggiatore (es. "Ciao Rent Car")
+        • name      – modello dell’auto (es. "Fiat Panda")
+        • link      – URL dell’offerta
+        • price_eur – prezzo in float (solo cifra)
+        • price_text– prezzo formattato (stringa originale)
+
+    Restituisce: list[dict]
+    """
+    # ─────────────────────────────────────────────────────────────
+    # 1. Modello, link e prezzo (logica invariata)
+    # ─────────────────────────────────────────────────────────────
+    anchors        = page.locator(".car-box .car-name a")
+    names          = anchors.all_inner_texts()
+    anchor_elems   = anchors.all()
+    hrefs          = [a.get_attribute("href") for a in anchor_elems]
+    prices_text    = page.locator(".car-box .price-item-price-main").all_inner_texts()
+
+    # ─────────────────────────────────────────────────────────────
+    # 2. NUOVO: nome fornitore (logo -> attributo ALT)
+    # ─────────────────────────────────────────────────────────────
+    supplier_imgs  = page.locator(".car-box .car-box-supplier-wrapper img[alt]")
+    suppliers      = [img.get_attribute("alt") for img in supplier_imgs.all()]
+
+    # ─────────────────────────────────────────────────────────────
+    # 3. Costruzione lista finale
+    # ─────────────────────────────────────────────────────────────
     cars = []
-    for name, href, ptxt in zip(names, hrefs, prices_text):
+    for name, href, ptxt, supplier in zip(names, hrefs, prices_text, suppliers):
         if not href:
             continue
         try:
             price_eur = float(ptxt.replace("€", "").replace(",", "").strip())
         except ValueError:
             price_eur = None
-        cars.append(
-            {
-                "name": name.strip(),
-                "link": urljoin(BASE_URL, href),
-                "price_eur": price_eur,
-                "price_text": ptxt.strip(),
-            }
-        )
+
+        cars.append({
+            "supplier": (supplier or "").strip(),
+            "name":     name.strip(),
+            "link":     urljoin(BASE_URL, href),
+            "price_eur": price_eur,
+            "price_text": ptxt.strip(),
+        })
+
     return cars
+
 
 
 def step_1(
@@ -114,7 +140,7 @@ def step_1(
 
     out_path = work_dir / output_file
 
-    max_attempts = 5
+    max_attempts = 20
     attempt = 0
     cars = []
     while attempt < max_attempts:
